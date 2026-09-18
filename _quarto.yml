@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "wiki"
+  site-url: "https://januvojta.github.io/wiki"
+  description: "Notes and small Python experiments."
+  navbar:
+    background: "#faf9f5"
+    left:
+      - href: experiments/index.qmd
+        text: Experiments
+      - href: notes/index.qmd
+        text: Notes
+      - href: about.qmd
+        text: About
+    search: true
+  page-footer:
+    background: "#141413"
+    left: "Notes and experiments about software, models, and data."
+    right:
+      - text: GitHub
+        href: https://github.com/januvojta/wiki
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: right
+    code-copy: true
+    html-math-method: katex
+
+execute:
+  freeze: auto

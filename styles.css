@@ -1,0 +1,269 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500&family=Source+Serif+4:ital,wght@0,400;0,500;1,400&display=swap");
+
+:root {
+  --ink: #141413;
+  --muted: #5e5d59;
+  --rule: #d1cfc5;
+  --paper: #faf9f5;
+  --paper-dark: #f0eee6;
+  --accent: #d97757;
+  --sans: "DM Sans", system-ui, sans-serif;
+  --serif: "Source Serif 4", Georgia, serif;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+body, main.content {
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+.navbar {
+  --bs-navbar-color: var(--ink);
+  --bs-navbar-hover-color: var(--ink);
+  --bs-navbar-active-color: var(--ink);
+  background: color-mix(in srgb, var(--paper) 94%, transparent) !important;
+  border-bottom: 1px solid rgba(20, 20, 19, 0.12);
+  font-family: var(--sans);
+  font-size: 0.88rem;
+  padding: 0.55rem 1rem;
+}
+
+.navbar-container {
+  max-width: 840px;
+  margin: auto;
+}
+
+.navbar-brand {
+  font-weight: 500;
+  letter-spacing: -0.03em;
+}
+
+.navbar .nav-link {
+  color: var(--ink) !important;
+  opacity: 0.68;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+  opacity: 1;
+}
+
+main.content {
+  padding-top: 2.5rem;
+}
+
+#title-block-header {
+  border: 0;
+  margin: 1.5rem 0 3.5rem;
+  padding: 0;
+}
+
+h1, h2, h3, h4,
+.listing-title,
+.quarto-title-meta,
+.quarto-categories,
+.sidebar,
+.nav-footer {
+  font-family: var(--sans);
+}
+
+h1, h2, h3, h4 {
+  color: var(--ink);
+  font-weight: 500;
+  letter-spacing: -0.035em;
+}
+
+h1.title {
+  font-size: clamp(2.4rem, 6vw, 3.2rem);
+  line-height: 1.08;
+  max-width: 690px;
+}
+
+.quarto-title .subtitle,
+.quarto-title .description {
+  color: var(--muted);
+  font-family: var(--serif);
+  font-size: 1.2rem;
+  line-height: 1.5;
+  max-width: 590px;
+  margin-top: 1rem;
+}
+
+h2 {
+  margin-top: 2.75rem;
+}
+
+a {
+  color: var(--ink);
+  text-decoration-color: var(--accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.16em;
+}
+
+a:hover {
+  color: var(--accent);
+}
+
+.home-sections {
+  border-bottom: 1px solid var(--rule);
+  margin-top: 4.5rem;
+}
+
+.home-sections section {
+  border-top: 1px solid var(--rule);
+  padding: 1.5rem 0 2rem;
+}
+
+.home-sections h2 {
+  font-size: 1.65rem;
+  margin: 0 0 0.35rem;
+}
+
+.home-sections p {
+  color: var(--muted);
+  margin-bottom: 0.65rem;
+}
+
+.home-sections a {
+  font-family: var(--sans);
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.quarto-listing-default .quarto-post {
+  border-bottom: 1px solid var(--rule);
+  margin: 0;
+  padding: 1.5rem 0;
+}
+
+.quarto-listing-default .quarto-post:first-child {
+  border-top: 1px solid var(--rule);
+}
+
+.quarto-listing-default .listing-title {
+  font-size: 1.55rem;
+  font-weight: 500;
+  letter-spacing: -0.03em;
+  line-height: 1.2;
+}
+
+.quarto-listing-default .listing-description {
+  color: var(--muted);
+  font-family: var(--serif);
+  line-height: 1.5;
+}
+
+.quarto-listing-default .listing-date,
+.listing-category,
+.quarto-category,
+.quarto-title-meta-heading {
+  color: var(--muted);
+  font-family: var(--sans);
+  font-size: 0.68rem !important;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.listing-category,
+.quarto-category {
+  border: 0 !important;
+  padding: 0 !important;
+}
+
+.quarto-listing-default .thumbnail img {
+  background: white;
+  border-radius: 0.35rem;
+}
+
+.quarto-title-meta {
+  border-top: 1px solid var(--rule);
+  margin-top: 2rem;
+  padding-top: 0.85rem;
+}
+
+.quarto-title-meta-contents,
+.quarto-title-meta-contents p {
+  color: var(--muted);
+  font-size: 0.78rem;
+}
+
+pre,
+code,
+.cell-output {
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+}
+
+div.sourceCode,
+pre.sourceCode {
+  background: var(--paper-dark);
+  border: 0;
+  border-radius: 0.35rem;
+}
+
+.cell-output-display img {
+  border: 1px solid var(--rule);
+}
+
+figcaption {
+  color: var(--muted);
+  font-family: var(--serif);
+  font-size: 0.9rem;
+}
+
+#TOC,
+.quarto-listing-category {
+  color: var(--muted);
+  font-family: var(--sans);
+  font-size: 0.78rem;
+}
+
+.nav-footer {
+  color: #b0aea5;
+  line-height: 1.5;
+  margin-top: 6rem;
+  min-height: 12rem;
+  padding: 3.5rem max(1.25rem, calc((100vw - 840px) / 2));
+}
+
+.nav-footer a {
+  color: var(--paper);
+}
+
+@media (min-width: 992px) {
+  .page-columns .content {
+    max-width: 52.5rem;
+  }
+}
+
+@media (max-width: 767px) {
+  main.content {
+    max-width: calc(100vw - 3rem);
+    min-width: 0;
+    padding-top: 1.25rem;
+    width: 100%;
+  }
+
+  #title-block-header {
+    margin-bottom: 2.5rem;
+  }
+
+  .home-sections {
+    margin-top: 3rem;
+  }
+
+  .quarto-listing-default .listing-title {
+    font-size: 1.3rem;
+  }
+
+  .nav-footer {
+    margin-top: 4rem;
+    padding-top: 2.5rem;
+  }
+}

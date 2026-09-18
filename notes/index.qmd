@@ -1,0 +1,8 @@
+---
+title: "Notes"
+listing:
+  contents: "*.qmd"
+  sort: "title asc"
+---
+
+Evergreen references organized by topic.

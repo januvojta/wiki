@@ -1,0 +1,12 @@
+{
+  "hash": "7d95b0842b41413fe14abcee1729efa9",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: A small decay experiment\ndescription: A minimal percent-format Python article rendered by Quarto.\ndate: 2026-09-18\ncategories: [python, visualization]\ndraft: false\njupyter: python3\n---\n\nThis page is authored as a `.py` file using Jupyter percent cells. It does not\nrequire an `.ipynb` notebook file or the Jupyter user interface.\n\n::: {#cell-fig-decay .cell execution_count=1}\n``` {.python .cell-code}\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nx = np.linspace(0, 4, 200)\ny = np.exp(-x)\n\nfig, ax = plt.subplots(figsize=(7, 3.5), facecolor=\"#faf9f5\")\nax.set_facecolor(\"#faf9f5\")\nax.plot(x, y, color=\"#d97757\", linewidth=2.5)\nax.set(xlabel=\"time\", ylabel=\"value\", ylim=(0, 1.05))\nax.spines[[\"top\", \"right\"]].set_visible(False)\nplt.show()\n```\n\n::: {.cell-output .cell-output-display}\n![Exponential decay from a small Python computation.](index_files/figure-html/fig-decay-output-1.png){#fig-decay width=590 height=320}\n:::\n:::\n\n\nThe curve follows $y = e^{-x}$. See @fig-decay.\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

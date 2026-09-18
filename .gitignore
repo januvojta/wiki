@@ -12,3 +12,6 @@ __pycache__/
 
 # Quarto render output (the committed _freeze/ cache is source data)
 _site/
+
+/.quarto/
+**/*.quarto_ipynb

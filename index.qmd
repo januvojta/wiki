@@ -1,0 +1,25 @@
+---
+title: "Notes, models, and small experiments"
+subtitle: "A personal collection of technical notes and executable Python experiments."
+toc: false
+---
+
+::: {.home-sections}
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+## Experiments
+
+Small, reproducible investigations written as Python scripts.
+
+[Browse experiments](experiments/)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+## Notes
+
+Evergreen references collected while learning and building.
+
+[Browse notes](notes/)
+:::
+:::
+:::
