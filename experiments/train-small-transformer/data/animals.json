@@ -1,0 +1,6426 @@
+{
+  "dog": {
+    "size": "variable",
+    "habitat": [
+      "worldwide",
+      "domesticated",
+      "human settlements"
+    ],
+    "features": [
+      "sharp teeth",
+      "keen sense of smell",
+      "furry coat",
+      "tail"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "walks",
+      "runs",
+      "jumps",
+      "swims"
+    ],
+    "behavior": [
+      "highly social",
+      "loyal",
+      "domesticated companion",
+      "communicates via barking and howling"
+    ],
+    "color": [
+      "brown",
+      "black",
+      "white",
+      "tan",
+      "golden",
+      "gray",
+      "spotted"
+    ]
+  },
+  "cat": {
+    "size": "small",
+    "habitat": [
+      "worldwide",
+      "domesticated",
+      "human settlements"
+    ],
+    "features": [
+      "retractable claws",
+      "sharp teeth",
+      "whiskers",
+      "flexible spine",
+      "vertical pupils"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "walks",
+      "runs",
+      "climbs",
+      "leaps"
+    ],
+    "behavior": [
+      "solitary hunter",
+      "territorial",
+      "agile",
+      "nocturnal/crepuscular tendencies"
+    ],
+    "color": [
+      "black",
+      "white",
+      "gray",
+      "orange",
+      "brown",
+      "tabby",
+      "calico",
+      "tortoiseshell"
+    ]
+  },
+  "african elephant": {
+    "size": "very large",
+    "habitat": [
+      "Africa",
+      "savanna",
+      "forests"
+    ],
+    "features": [
+      "trunk",
+      "tusks",
+      "large ears"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "walks",
+      "can swim"
+    ],
+    "behavior": [
+      "lives in groups",
+      "intelligent"
+    ],
+    "color": [
+      "gray"
+    ]
+  },
+  "blue whale": {
+    "size": "massive",
+    "habitat": [
+      "oceans"
+    ],
+    "features": [
+      "baleen plates",
+      "blowhole",
+      "huge body"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims"
+    ],
+    "behavior": [
+      "migrates",
+      "solitary or in small groups"
+    ],
+    "color": [
+      "blue",
+      "gray"
+    ]
+  },
+  "chimpanzee": {
+    "size": "medium",
+    "habitat": [
+      "Africa",
+      "tropical forests"
+    ],
+    "features": [
+      "opposable thumbs",
+      "long arms",
+      "expressive face"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "climbs",
+      "walks",
+      "swings"
+    ],
+    "behavior": [
+      "tool use",
+      "lives in communities"
+    ],
+    "color": [
+      "black",
+      "brown"
+    ]
+  },
+  "gray wolf": {
+    "size": "medium to large",
+    "habitat": [
+      "North America",
+      "Europe",
+      "Asia",
+      "forests",
+      "tundra"
+    ],
+    "features": [
+      "sharp teeth",
+      "thick fur",
+      "bushy tail"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "runs",
+      "walks",
+      "trots"
+    ],
+    "behavior": [
+      "lives in packs",
+      "howls",
+      "hunts in groups"
+    ],
+    "color": [
+      "gray",
+      "white",
+      "black",
+      "brown"
+    ]
+  },
+  "red kangaroo": {
+    "size": "large",
+    "habitat": [
+      "Australia",
+      "arid regions",
+      "grasslands"
+    ],
+    "features": [
+      "powerful hind legs",
+      "long tail",
+      "pouch"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "hops",
+      "runs",
+      "swims"
+    ],
+    "behavior": [
+      "lives in mobs",
+      "nocturnal or crepuscular"
+    ],
+    "color": [
+      "red",
+      "brown",
+      "gray"
+    ]
+  },
+  "platypus": {
+    "size": "small",
+    "habitat": [
+      "Australia",
+      "rivers",
+      "freshwater lakes"
+    ],
+    "features": [
+      "duck-like bill",
+      "webbed feet",
+      "beaver-like tail",
+      "venomous spurs"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims",
+      "walks",
+      "burrows"
+    ],
+    "behavior": [
+      "solitary",
+      "semi-aquatic",
+      "nocturnal"
+    ],
+    "color": [
+      "brown"
+    ]
+  },
+  "cheetah": {
+    "size": "large",
+    "habitat": [
+      "Africa",
+      "savanna",
+      "grasslands"
+    ],
+    "features": [
+      "spots",
+      "slender body",
+      "tear stripes",
+      "non-retractable claws"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "runs very fast",
+      "walks",
+      "climbs occasionally"
+    ],
+    "behavior": [
+      "solitary or in small coalitions",
+      "daytime hunter"
+    ],
+    "color": [
+      "tan",
+      "yellow",
+      "black"
+    ]
+  },
+  "giant panda": {
+    "size": "large",
+    "habitat": [
+      "Asia",
+      "temperate forests",
+      "mountains"
+    ],
+    "features": [
+      "distinctive black and white patches",
+      "thumb-like wrist bone"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "walks",
+      "climbs trees"
+    ],
+    "behavior": [
+      "solitary",
+      "spends most time eating"
+    ],
+    "color": [
+      "black",
+      "white"
+    ]
+  },
+  "brown bear": {
+    "size": "large",
+    "habitat": [
+      "North America",
+      "Eurasia",
+      "forests",
+      "mountains"
+    ],
+    "features": [
+      "shaggy fur",
+      "shoulder hump",
+      "long claws"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "walks",
+      "runs",
+      "swims",
+      "climbs"
+    ],
+    "behavior": [
+      "hibernates",
+      "solitary"
+    ],
+    "color": [
+      "brown",
+      "blonde",
+      "black"
+    ]
+  },
+  "bottlenose dolphin": {
+    "size": "medium",
+    "habitat": [
+      "oceans",
+      "coastal waters",
+      "temperate and tropical seas"
+    ],
+    "features": [
+      "curved mouth",
+      "dorsal fin",
+      "blowhole"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims",
+      "leaps"
+    ],
+    "behavior": [
+      "lives in pods",
+      "echolocates",
+      "highly social"
+    ],
+    "color": [
+      "gray",
+      "white"
+    ]
+  },
+  "giraffe": {
+    "size": "very large",
+    "habitat": [
+      "Africa",
+      "savanna",
+      "woodlands"
+    ],
+    "features": [
+      "extremely long neck",
+      "long legs",
+      "ossicones",
+      "spots"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "walks",
+      "runs"
+    ],
+    "behavior": [
+      "lives in herds",
+      "browses high trees"
+    ],
+    "color": [
+      "yellow",
+      "brown",
+      "tan"
+    ]
+  },
+  "hippopotamus": {
+    "size": "very large",
+    "habitat": [
+      "Africa",
+      "rivers",
+      "lakes",
+      "swamps"
+    ],
+    "features": [
+      "massive barrel-shaped body",
+      "short legs",
+      "large canine teeth"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "walks on riverbeds",
+      "swims",
+      "runs"
+    ],
+    "behavior": [
+      "amphibious",
+      "territorial",
+      "lives in groups"
+    ],
+    "color": [
+      "gray",
+      "brown",
+      "purple"
+    ]
+  },
+  "zebra": {
+    "size": "large",
+    "habitat": [
+      "Africa",
+      "savanna",
+      "grasslands"
+    ],
+    "features": [
+      "black and white stripes",
+      "horse-like build"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "walks",
+      "runs"
+    ],
+    "behavior": [
+      "lives in herds",
+      "migratory"
+    ],
+    "color": [
+      "black",
+      "white"
+    ]
+  },
+  "lion": {
+    "size": "large",
+    "habitat": [
+      "Africa",
+      "grasslands",
+      "savanna"
+    ],
+    "features": [
+      "sharp teeth",
+      "claws",
+      "mane on males"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "walks",
+      "runs"
+    ],
+    "behavior": [
+      "lives in prides",
+      "hunts other animals"
+    ],
+    "color": [
+      "tan",
+      "golden"
+    ]
+  },
+  "tiger": {
+    "size": "large",
+    "habitat": [
+      "Asia",
+      "forests",
+      "mangroves",
+      "grasslands"
+    ],
+    "features": [
+      "stripes",
+      "sharp claws",
+      "powerful build"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "walks",
+      "runs",
+      "swims"
+    ],
+    "behavior": [
+      "solitary",
+      "territorial",
+      "nocturnal hunter"
+    ],
+    "color": [
+      "orange",
+      "black",
+      "white"
+    ]
+  },
+  "koala": {
+    "size": "small",
+    "habitat": [
+      "Australia",
+      "eucalyptus forests"
+    ],
+    "features": [
+      "fluffy ears",
+      "spoon-shaped nose",
+      "clawed paws for climbing"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "climbs",
+      "walks slowly"
+    ],
+    "behavior": [
+      "arborial",
+      "sleeps many hours a day",
+      "solitary"
+    ],
+    "color": [
+      "gray",
+      "white"
+    ]
+  },
+  "tasmanian devil": {
+    "size": "small",
+    "habitat": [
+      "Australia",
+      "Tasmania",
+      "forests"
+    ],
+    "features": [
+      "strong jaws",
+      "coarse black fur",
+      "white chest stripe"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "walks",
+      "runs"
+    ],
+    "behavior": [
+      "nocturnal",
+      "scavenger",
+      "solitary"
+    ],
+    "color": [
+      "black",
+      "white"
+    ]
+  },
+  "aardvark": {
+    "size": "medium",
+    "habitat": [
+      "Africa",
+      "savanna",
+      "grasslands",
+      "bushland"
+    ],
+    "features": [
+      "pig-like snout",
+      "long ears",
+      "powerful digging claws",
+      "long sticky tongue"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "walks",
+      "burrows"
+    ],
+    "behavior": [
+      "nocturnal",
+      "solitary"
+    ],
+    "color": [
+      "yellow-gray",
+      "brown"
+    ]
+  },
+  "pangolin": {
+    "size": "small",
+    "habitat": [
+      "Africa",
+      "Asia",
+      "forests",
+      "grasslands"
+    ],
+    "features": [
+      "keratin scales",
+      "long tongue",
+      "prehensile tail"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "walks",
+      "climbs"
+    ],
+    "behavior": [
+      "curls into a ball when threatened",
+      "nocturnal",
+      "solitary"
+    ],
+    "color": [
+      "brown",
+      "yellow"
+    ]
+  },
+  "sloth": {
+    "size": "small",
+    "habitat": [
+      "Central America",
+      "South America",
+      "tropical rainforests"
+    ],
+    "features": [
+      "long claws",
+      "shaggy fur",
+      "round head"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "climbs very slowly",
+      "swims"
+    ],
+    "behavior": [
+      "arborial",
+      "spends most of life hanging upside down"
+    ],
+    "color": [
+      "brown",
+      "gray",
+      "greenish tint"
+    ]
+  },
+  "moose": {
+    "size": "very large",
+    "habitat": [
+      "North America",
+      "Europe",
+      "Asia",
+      "boreal forests"
+    ],
+    "features": [
+      "palmate antlers on males",
+      "long legs",
+      "overhanging snout"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "walks",
+      "runs",
+      "swims"
+    ],
+    "behavior": [
+      "solitary",
+      "aquatic feeder"
+    ],
+    "color": [
+      "brown",
+      "black"
+    ]
+  },
+  "beaver": {
+    "size": "small",
+    "habitat": [
+      "North America",
+      "Europe",
+      "rivers",
+      "ponds",
+      "streams"
+    ],
+    "features": [
+      "flat paddle-like tail",
+      "large front incisors",
+      "webbed hind feet"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "swims",
+      "walks"
+    ],
+    "behavior": [
+      "builds dams and lodges",
+      "nocturnal"
+    ],
+    "color": [
+      "brown"
+    ]
+  },
+  "sea otter": {
+    "size": "small",
+    "habitat": [
+      "North Pacific",
+      "coastal marine waters"
+    ],
+    "features": [
+      "dense waterproof fur",
+      "webbed feet",
+      "long whiskers"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims",
+      "floats on back",
+      "walks clumsily on land"
+    ],
+    "behavior": [
+      "uses tools (rocks to crack shells)",
+      "social"
+    ],
+    "color": [
+      "brown",
+      "dark brown",
+      "silver"
+    ]
+  },
+  "little brown bat": {
+    "size": "very small",
+    "habitat": [
+      "North America",
+      "forests",
+      "caves",
+      "near water"
+    ],
+    "features": [
+      "leathery wings",
+      "small body",
+      "furry coat"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "flies",
+      "crawls"
+    ],
+    "behavior": [
+      "nocturnal",
+      "roosts in colonies",
+      "echolocates"
+    ],
+    "color": [
+      "brown",
+      "bronze"
+    ]
+  },
+  "hedgehog": {
+    "size": "very small",
+    "habitat": [
+      "Europe",
+      "Asia",
+      "Africa",
+      "gardens",
+      "grasslands"
+    ],
+    "features": [
+      "spines on back",
+      "short snout",
+      "small legs"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "walks",
+      "curls into a ball"
+    ],
+    "behavior": [
+      "nocturnal",
+      "hibernates in cold climates"
+    ],
+    "color": [
+      "brown",
+      "white",
+      "gray"
+    ]
+  },
+  "meerkat": {
+    "size": "very small",
+    "habitat": [
+      "Africa",
+      "deserts",
+      "savanna"
+    ],
+    "features": [
+      "dark eye patches",
+      "long slender tail",
+      "sharp claws"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "walks",
+      "runs",
+      "burrows"
+    ],
+    "behavior": [
+      "lives in mobs",
+      "stands on hind legs as sentries"
+    ],
+    "color": [
+      "tan",
+      "gray",
+      "silver"
+    ]
+  },
+  "snow leopard": {
+    "size": "medium",
+    "habitat": [
+      "Central Asia",
+      "mountains",
+      "alpine regions"
+    ],
+    "features": [
+      "thick smoky-gray fur with spots",
+      "long balancing tail",
+      "wide paws"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "walks",
+      "leaps",
+      "runs"
+    ],
+    "behavior": [
+      "solitary",
+      "elusive",
+      "crepuscular"
+    ],
+    "color": [
+      "gray",
+      "white",
+      "black"
+    ]
+  },
+  "wolverine": {
+    "size": "medium",
+    "habitat": [
+      "North America",
+      "Eurasia",
+      "taiga",
+      "tundra",
+      "mountains"
+    ],
+    "features": [
+      "muscular build",
+      "thick fur",
+      "strong jaws and claws"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "walks",
+      "runs",
+      "climbs",
+      "swims"
+    ],
+    "behavior": [
+      "solitary",
+      "ferocious",
+      "territorial"
+    ],
+    "color": [
+      "brown",
+      "black",
+      "lighter side stripes"
+    ]
+  },
+  "reindeer": {
+    "size": "large",
+    "habitat": [
+      "Arctic regions",
+      "tundra",
+      "taiga",
+      "subarctic"
+    ],
+    "features": [
+      "antlers on both males and females",
+      "hooves adapted for snow"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "walks",
+      "runs",
+      "swims"
+    ],
+    "behavior": [
+      "migratory",
+      "lives in herds"
+    ],
+    "color": [
+      "brown",
+      "gray",
+      "white"
+    ]
+  },
+  "orca": {
+    "size": "very large",
+    "habitat": [
+      "oceans",
+      "polar regions to tropical seas"
+    ],
+    "features": [
+      "distinctive black and white pattern",
+      "tall dorsal fin"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims",
+      "leaps"
+    ],
+    "behavior": [
+      "lives in pods",
+      "highly intelligent",
+      "apex predator"
+    ],
+    "color": [
+      "black",
+      "white"
+    ]
+  },
+  "capybara": {
+    "size": "medium to large",
+    "habitat": [
+      "South America",
+      "wetlands",
+      "riversides",
+      "flooded forests"
+    ],
+    "features": [
+      "barrel-shaped body",
+      "webbed feet",
+      "short head"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "swims",
+      "walks",
+      "runs"
+    ],
+    "behavior": [
+      "lives in groups",
+      "very social and docile"
+    ],
+    "color": [
+      "brown",
+      "reddish-brown"
+    ]
+  },
+  "wombat": {
+    "size": "medium",
+    "habitat": [
+      "Australia",
+      "forests",
+      "mountains",
+      "heathland"
+    ],
+    "features": [
+      "stout body",
+      "short legs",
+      "backward-facing pouch"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "walks",
+      "burrows"
+    ],
+    "behavior": [
+      "nocturnal",
+      "burrower",
+      "solitary"
+    ],
+    "color": [
+      "brown",
+      "gray",
+      "black"
+    ]
+  },
+  "fennec fox": {
+    "size": "very small",
+    "habitat": [
+      "North Africa",
+      "Sahara Desert",
+      "arid sands"
+    ],
+    "features": [
+      "very large ears",
+      "petite frame",
+      "thick sandy fur"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "walks",
+      "runs",
+      "digs"
+    ],
+    "behavior": [
+      "nocturnal",
+      "lives in small family groups",
+      "burrower"
+    ],
+    "color": [
+      "cream",
+      "sand",
+      "white"
+    ]
+  },
+  "okapi": {
+    "size": "large",
+    "habitat": [
+      "Central Africa",
+      "tropical rainforests"
+    ],
+    "features": [
+      "zebra-like stripes on legs",
+      "long blue-black tongue",
+      "giraffe-like head shape"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "walks"
+    ],
+    "behavior": [
+      "solitary",
+      "elusive",
+      "diurnal"
+    ],
+    "color": [
+      "chocolate brown",
+      "black",
+      "white stripes"
+    ]
+  },
+  "narwhal": {
+    "size": "large",
+    "habitat": [
+      "Arctic Ocean",
+      "polar waters"
+    ],
+    "features": [
+      "long spiraled tusk in males",
+      "rounded head",
+      "mottled skin"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims",
+      "dives deep"
+    ],
+    "behavior": [
+      "lives in pods",
+      "migratory"
+    ],
+    "color": [
+      "gray",
+      "white",
+      "black spots"
+    ]
+  },
+  "manatee": {
+    "size": "large",
+    "habitat": [
+      "coastal areas",
+      "rivers",
+      "estuaries",
+      "shallow marine waters"
+    ],
+    "features": [
+      "large paddle-like tail",
+      "flipper-like front limbs",
+      "wrinkled snout"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "swims slowly"
+    ],
+    "behavior": [
+      "gentle",
+      "semi-solitary or small groups"
+    ],
+    "color": [
+      "gray",
+      "brown"
+    ]
+  },
+  "echidna": {
+    "size": "small",
+    "habitat": [
+      "Australia",
+      "New Guinea",
+      "forests",
+      "deserts"
+    ],
+    "features": [
+      "spines covering back",
+      "long tubular snout",
+      "egg-laying mammal"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "walks",
+      "burrows",
+      "swims"
+    ],
+    "behavior": [
+      "solitary",
+      "oviparous (lays eggs)",
+      "digs when threatened"
+    ],
+    "color": [
+      "brown",
+      "black",
+      "cream"
+    ]
+  },
+  "ring-tailed lemur": {
+    "size": "small",
+    "habitat": [
+      "Madagascar",
+      "dry forests",
+      "scrub forests"
+    ],
+    "features": [
+      "long black-and-white ringed tail",
+      "pointed snout",
+      "amber eyes"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "climbs",
+      "walks on ground",
+      "leaps"
+    ],
+    "behavior": [
+      "lives in troops",
+      "diurnal",
+      "sunbathing posture"
+    ],
+    "color": [
+      "gray",
+      "white",
+      "black"
+    ]
+  },
+  "wildebeest": {
+    "size": "large",
+    "habitat": [
+      "Africa",
+      "savanna",
+      "plains"
+    ],
+    "features": [
+      "curved horns",
+      "beefy shoulders",
+      "slender legs",
+      "beard"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "walks",
+      "runs",
+      "gallops"
+    ],
+    "behavior": [
+      "migratory",
+      "lives in massive herds"
+    ],
+    "color": [
+      "gray",
+      "dark brown"
+    ]
+  },
+  "bald eagle": {
+    "size": "medium",
+    "habitat": [
+      "North America",
+      "near lakes",
+      "rivers",
+      "coastal areas"
+    ],
+    "features": [
+      "white head and tail",
+      "dark brown body",
+      "yellow hooked beak",
+      "talons"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "flies",
+      "glides",
+      "walks"
+    ],
+    "behavior": [
+      "carnivorous hunter",
+      "forms lifelong pairs"
+    ],
+    "color": [
+      "brown",
+      "white",
+      "yellow"
+    ]
+  },
+  "emperor penguin": {
+    "size": "medium",
+    "habitat": [
+      "Antarctica",
+      "sea ice"
+    ],
+    "features": [
+      "black and white plumage",
+      "yellow-orange ear patches",
+      "streamlined body"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims",
+      "waddles",
+      "toboggans on ice",
+      "cannot fly"
+    ],
+    "behavior": [
+      "breeds in extreme cold",
+      "huggable colony clustering"
+    ],
+    "color": [
+      "black",
+      "white",
+      "yellow"
+    ]
+  },
+  "peregrine falcon": {
+    "size": "small",
+    "habitat": [
+      "worldwide",
+      "coasts",
+      "mountains",
+      "cities"
+    ],
+    "features": [
+      "pointed wings",
+      "dark malar stripe",
+      "hooked beak"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "flies",
+      "dives at extremely high speeds"
+    ],
+    "behavior": [
+      "aerial predator",
+      "territorial"
+    ],
+    "color": [
+      "blue-gray",
+      "white",
+      "black"
+    ]
+  },
+  "ostrich": {
+    "size": "very large",
+    "habitat": [
+      "Africa",
+      "savanna",
+      "deserts"
+    ],
+    "features": [
+      "tallest living bird",
+      "long neck and legs",
+      "large eyes",
+      "unable to fly"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "runs very fast",
+      "walks"
+    ],
+    "behavior": [
+      "lives in flocks",
+      "defensive kick"
+    ],
+    "color": [
+      "black",
+      "white",
+      "gray-brown"
+    ]
+  },
+  "emu": {
+    "size": "large",
+    "habitat": [
+      "Australia",
+      "woodlands",
+      "savanna",
+      "arid areas"
+    ],
+    "features": [
+      "large flightless bird",
+      "shaggy brownish plumage",
+      "long neck"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "runs fast",
+      "walks"
+    ],
+    "behavior": [
+      "curious",
+      "semi-nomadic"
+    ],
+    "color": [
+      "brown",
+      "gray"
+    ]
+  },
+  "wandering albatross": {
+    "size": "large",
+    "habitat": [
+      "Southern Ocean",
+      "pelagic marine waters"
+    ],
+    "features": [
+      "extremely long wingspan",
+      "hooked bill",
+      "webbed feet"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "flies",
+      "glides over ocean",
+      "swims"
+    ],
+    "behavior": [
+      "spends most of life flying",
+      "oceanic wanderer"
+    ],
+    "color": [
+      "white",
+      "black-tipped wings"
+    ]
+  },
+  "great horned owl": {
+    "size": "medium",
+    "habitat": [
+      "North America",
+      "South America",
+      "forests",
+      "deserts",
+      "urban areas"
+    ],
+    "features": [
+      "prominent feather tufts (horns)",
+      "large yellow eyes",
+      "hooked bill"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "flies silently",
+      "perches"
+    ],
+    "behavior": [
+      "nocturnal hunter",
+      "solitary"
+    ],
+    "color": [
+      "brown",
+      "gray",
+      "white mottling"
+    ]
+  },
+  "ruby-throated hummingbird": {
+    "size": "very small",
+    "habitat": [
+      "North America",
+      "gardens",
+      "forest edges",
+      "meadows"
+    ],
+    "features": [
+      "iridescent green back",
+      "ruby-red throat on males",
+      "needle-like bill"
+    ],
+    "diet": "nectar and insects",
+    "movement": [
+      "hovers",
+      "flies very fast in all directions",
+      "cannot walk"
+    ],
+    "behavior": [
+      "highly energetic",
+      "solitary migrant"
+    ],
+    "color": [
+      "green",
+      "red",
+      "white"
+    ]
+  },
+  "greater flamingo": {
+    "size": "medium",
+    "habitat": [
+      "Africa",
+      "Southern Europe",
+      "Asia",
+      "wetlands",
+      "shallow lakes"
+    ],
+    "features": [
+      "pink plumage",
+      "long slender neck and legs",
+      "bent bill"
+    ],
+    "diet": "omnivorous filter feeder",
+    "movement": [
+      "wades",
+      "flies",
+      "swims"
+    ],
+    "behavior": [
+      "lives in large colonies",
+      "stands on one leg"
+    ],
+    "color": [
+      "pink",
+      "white"
+    ]
+  },
+  "peacock": {
+    "size": "medium",
+    "habitat": [
+      "Asia",
+      "forests",
+      "agricultural lands"
+    ],
+    "features": [
+      "iridescent blue-green plumage",
+      "massive fan-like tail train with eye-spots"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "walks",
+      "runs",
+      "short flights"
+    ],
+    "behavior": [
+      "displays feathers to attract mates",
+      "lives in groups"
+    ],
+    "color": [
+      "blue",
+      "green",
+      "bronze"
+    ]
+  },
+  "kiwi": {
+    "size": "small",
+    "habitat": [
+      "New Zealand",
+      "native forests",
+      "grasslands"
+    ],
+    "features": [
+      "flightless",
+      "hair-like feathers",
+      "long bill with nostrils at tip"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "walks",
+      "runs on ground"
+    ],
+    "behavior": [
+      "nocturnal",
+      "burrower",
+      "poor eyesight, relies on smell"
+    ],
+    "color": [
+      "brown",
+      "gray"
+    ]
+  },
+  "golden eagle": {
+    "size": "large",
+    "habitat": [
+      "Northern Hemisphere",
+      "mountains",
+      "hills",
+      "cliffs"
+    ],
+    "features": [
+      "dark brown feathers with golden-brown head and neck",
+      "powerful talons"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "flies",
+      "glides",
+      "dives"
+    ],
+    "behavior": [
+      "territorial",
+      "forms long-term pairs",
+      "apex avian predator"
+    ],
+    "color": [
+      "brown",
+      "golden-yellow"
+    ]
+  },
+  "scarlet macaw": {
+    "size": "medium",
+    "habitat": [
+      "Central America",
+      "South America",
+      "tropical rainforests"
+    ],
+    "features": [
+      "bright red, yellow, and blue feathers",
+      "strong hooked beak"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "flies",
+      "climbs with beak and feet"
+    ],
+    "behavior": [
+      "social",
+      "lives in pairs or small flocks",
+      "loud vocalizations"
+    ],
+    "color": [
+      "red",
+      "yellow",
+      "blue"
+    ]
+  },
+  "toco toucan": {
+    "size": "medium",
+    "habitat": [
+      "South America",
+      "tropical forests",
+      "savannas"
+    ],
+    "features": [
+      "huge orange-yellow bill with black tip",
+      "black body",
+      "white throat"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "flies with shallow wingbeats",
+      "hops in trees"
+    ],
+    "behavior": [
+      "lives in small flocks",
+      "arborial"
+    ],
+    "color": [
+      "black",
+      "white",
+      "orange",
+      "yellow"
+    ]
+  },
+  "cassowary": {
+    "size": "large",
+    "habitat": [
+      "New Guinea",
+      "Australia",
+      "tropical rainforests"
+    ],
+    "features": [
+      "large flightless bird",
+      "bony casque on head",
+      "bright blue neck",
+      "sharp dagger-like claw"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "walks",
+      "runs fast",
+      "swims"
+    ],
+    "behavior": [
+      "solitary",
+      "aggressive when cornered",
+      "territorial"
+    ],
+    "color": [
+      "black",
+      "blue",
+      "red"
+    ]
+  },
+  "great blue heron": {
+    "size": "large",
+    "habitat": [
+      "North America",
+      "Central America",
+      "wetlands",
+      "shorelines",
+      "rivers"
+    ],
+    "features": [
+      "long neck and legs",
+      "dagger-like bill",
+      "blue-gray plumage"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "wades",
+      "flies with neck curved in an 'S'",
+      "stands still"
+    ],
+    "behavior": [
+      "solitary hunter",
+      "diurnal"
+    ],
+    "color": [
+      "blue-gray",
+      "white",
+      "black"
+    ]
+  },
+  "mallard duck": {
+    "size": "small",
+    "habitat": [
+      "Northern Hemisphere",
+      "wetlands",
+      "ponds",
+      "rivers",
+      "parks"
+    ],
+    "features": [
+      "green head on males",
+      "brownish mottled body on females",
+      "webbed feet"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "swims",
+      "flies",
+      "walks"
+    ],
+    "behavior": [
+      "gregarious",
+      "migratory in northern ranges"
+    ],
+    "color": [
+      "green",
+      "brown",
+      "gray",
+      "white"
+    ]
+  },
+  "canada goose": {
+    "size": "medium",
+    "habitat": [
+      "North America",
+      "temperate regions, near lakes, rivers, and lawns"
+    ],
+    "features": [
+      "black head and neck",
+      "white chin strap",
+      "brown body"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "flies in V-formation",
+      "swims",
+      "walks"
+    ],
+    "behavior": [
+      "migratory",
+      "forms lifelong pairs",
+      "territorial"
+    ],
+    "color": [
+      "brown",
+      "black",
+      "white"
+    ]
+  },
+  "atlantic puffin": {
+    "size": "small",
+    "habitat": [
+      "North Atlantic",
+      "coastal cliffs",
+      "open ocean"
+    ],
+    "features": [
+      "colorful parrot-like bill",
+      "black and white plumage",
+      "webbed feet"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims underwater",
+      "flies fast",
+      "waddles on land"
+    ],
+    "behavior": [
+      "colonizes coastal cliffs",
+      "dives for fish"
+    ],
+    "color": [
+      "black",
+      "white",
+      "orange"
+    ]
+  },
+  "kookaburra": {
+    "size": "small",
+    "habitat": [
+      "Australia",
+      "eucalyptus forests",
+      "woodlands"
+    ],
+    "features": [
+      "large head",
+      "robust bill",
+      "brown and white plumage"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "flies",
+      "perches"
+    ],
+    "behavior": [
+      "known for laughing call",
+      "territorial",
+      "social family groups"
+    ],
+    "color": [
+      "brown",
+      "white",
+      "blue"
+    ]
+  },
+  "barn owl": {
+    "size": "small",
+    "habitat": [
+      "worldwide",
+      "farmland",
+      "grasslands",
+      "barns"
+    ],
+    "features": [
+      "heart-shaped facial disc",
+      "long legs",
+      "golden-buff plumage"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "flies silently",
+      "perches"
+    ],
+    "behavior": [
+      "nocturnal hunter",
+      "nest in cavities or buildings"
+    ],
+    "color": [
+      "golden-brown",
+      "white",
+      "gray"
+    ]
+  },
+  "harpy eagle": {
+    "size": "large",
+    "habitat": [
+      "Central America",
+      "South America",
+      "tropical lowland forests"
+    ],
+    "features": [
+      "dual crest of gray feathers",
+      "massive talons",
+      "dark gray back"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "flies through dense forest canopy",
+      "glides"
+    ],
+    "behavior": [
+      "apex arboreal predator",
+      "solitary"
+    ],
+    "color": [
+      "gray",
+      "black",
+      "white"
+    ]
+  },
+  "resplendent quetzal": {
+    "size": "small",
+    "habitat": [
+      "Central America",
+      "cloud forests"
+    ],
+    "features": [
+      "iridescent green plumage",
+      "red chest",
+      "extremely long tail streamers in males"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "flies",
+      "perches"
+    ],
+    "behavior": [
+      "shy",
+      "arborial",
+      "sacred in Mesoamerican history"
+    ],
+    "color": [
+      "green",
+      "red",
+      "white"
+    ]
+  },
+  "lyrebird": {
+    "size": "small",
+    "habitat": [
+      "Australia",
+      "temperate and subtropical rainforests"
+    ],
+    "features": [
+      "elaborate lyre-shaped tail feathers in males",
+      "brown plumage"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "runs",
+      "low flight",
+      "scratches ground"
+    ],
+    "behavior": [
+      "exceptional mimic of natural and artificial sounds"
+    ],
+    "color": [
+      "brown",
+      "gray"
+    ]
+  },
+  "kakapo": {
+    "size": "medium",
+    "habitat": [
+      "New Zealand",
+      "forests",
+      "scrublands"
+    ],
+    "features": [
+      "flightless parrot",
+      "moss-green plumage",
+      "owl-like face"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "walks",
+      "climbs trees",
+      "parachutes down"
+    ],
+    "behavior": [
+      "nocturnal",
+      "solitary",
+      "critically endangered"
+    ],
+    "color": [
+      "green",
+      "yellow",
+      "brown"
+    ]
+  },
+  "wandering whistling duck": {
+    "size": "small",
+    "habitat": [
+      "tropics",
+      "wetlands",
+      "shallow lakes",
+      "swamps"
+    ],
+    "features": [
+      "long neck and legs",
+      "chestnut-brown plumage",
+      "upright posture"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "swims",
+      "flies",
+      "walks"
+    ],
+    "behavior": [
+      "flocks together",
+      "produces whistling vocalizations"
+    ],
+    "color": [
+      "chestnut",
+      "brown",
+      "black"
+    ]
+  },
+  "frigatebird": {
+    "size": "medium",
+    "habitat": [
+      "tropical oceans",
+      "coastal islands"
+    ],
+    "features": [
+      "long forked tail",
+      "long hooked bill",
+      "red inflatable throat pouch on males"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "soars effortlessly in wind",
+      "cannot swim well"
+    ],
+    "behavior": [
+      "steals food from other birds (kleptoparasitism)"
+    ],
+    "color": [
+      "black",
+      "red"
+    ]
+  },
+  "shoebill": {
+    "size": "large",
+    "habitat": [
+      "East Africa",
+      "swamps",
+      "wetlands"
+    ],
+    "features": [
+      "huge slipper-shaped bill",
+      "long legs",
+      "blue-gray plumage"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "wades slowly",
+      "flies with slow wingbeats"
+    ],
+    "behavior": [
+      "stands motionless for hours",
+      "solitary"
+    ],
+    "color": [
+      "blue-gray"
+    ]
+  },
+  "secretary bird": {
+    "size": "large",
+    "habitat": [
+      "Africa",
+      "savanna",
+      "grasslands"
+    ],
+    "features": [
+      "eagle-like body",
+      "long crane-like legs",
+      "crest of black feathers"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "walks long distances on ground",
+      "flies"
+    ],
+    "behavior": [
+      "terrestrial hunter",
+      "stomps on snakes with feet"
+    ],
+    "color": [
+      "gray",
+      "black",
+      "white"
+    ]
+  },
+  "barn swallow": {
+    "size": "very small",
+    "habitat": [
+      "worldwide",
+      "farmlands",
+      "open fields",
+      "near structures"
+    ],
+    "features": [
+      "deeply forked tail",
+      "pointed wings",
+      "blue-black upperparts",
+      "tawny underparts"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "agile flight",
+      "perches"
+    ],
+    "behavior": [
+      "migratory",
+      "builds mud nests on buildings"
+    ],
+    "color": [
+      "blue",
+      "rusty-red",
+      "white"
+    ]
+  },
+  "komodo dragon": {
+    "size": "large",
+    "habitat": [
+      "Indonesia",
+      "tropical islands",
+      "savanna",
+      "forests"
+    ],
+    "features": [
+      "massive body",
+      "long flat head",
+      "yellow forked tongue",
+      "rough scales",
+      "venom glands"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "walks",
+      "runs short bursts",
+      "swims"
+    ],
+    "behavior": [
+      "solitary",
+      "apex predator",
+      "carnivorous scavenger"
+    ],
+    "color": [
+      "gray",
+      "brown",
+      "black"
+    ]
+  },
+  "saltwater crocodile": {
+    "size": "very large",
+    "habitat": [
+      "Asia",
+      "Australia",
+      "estuaries",
+      "mangrove swamps",
+      "coastal rivers"
+    ],
+    "features": [
+      "armored scutes",
+      "powerful tail",
+      "long snout",
+      "large conical teeth"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims",
+      "crawls on land",
+      "lunges"
+    ],
+    "behavior": [
+      "apex ambush predator",
+      "territorial"
+    ],
+    "color": [
+      "olive green",
+      "tan",
+      "black"
+    ]
+  },
+  "american alligator": {
+    "size": "large",
+    "habitat": [
+      "North America",
+      "swamps",
+      "marshes",
+      "rivers",
+      "lakes"
+    ],
+    "features": [
+      "broad rounded snout",
+      "armored hide",
+      "powerful tail"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims",
+      "walks",
+      "slides"
+    ],
+    "behavior": [
+      "ambush predator",
+      "builds mud nests"
+    ],
+    "color": [
+      "dark green",
+      "gray",
+      "black"
+    ]
+  },
+  "green iguana": {
+    "size": "medium",
+    "habitat": [
+      "Central America",
+      "South America",
+      "tropical rainforests",
+      "near water"
+    ],
+    "features": [
+      "dorsal crest of spines",
+      "dewlap under chin",
+      "long whiplike tail"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "climbs trees",
+      "swims",
+      "walks"
+    ],
+    "behavior": [
+      "arborial",
+      "basks in sun"
+    ],
+    "color": [
+      "green",
+      "brown",
+      "gray"
+    ]
+  },
+  "panther chameleon": {
+    "size": "small",
+    "habitat": [
+      "Madagascar",
+      "tropical forests",
+      "bushveld"
+    ],
+    "features": [
+      "color-changing skin",
+      "independently moving eyes",
+      "zygodactylous feet",
+      "projectile tongue"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "climbs slowly",
+      "grips branches"
+    ],
+    "behavior": [
+      "solitary",
+      "arborial",
+      "territorial"
+    ],
+    "color": [
+      "blue",
+      "green",
+      "red",
+      "yellow",
+      "orange"
+    ]
+  },
+  "gila monster": {
+    "size": "small",
+    "habitat": [
+      "North America",
+      "deserts",
+      "scrublands"
+    ],
+    "features": [
+      "bead-like scales",
+      "heavy body",
+      "short tail used for fat storage",
+      "venomous"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "walks slowly"
+    ],
+    "behavior": [
+      "venomous",
+      "spends most time in burrows",
+      "solitary"
+    ],
+    "color": [
+      "black",
+      "pink",
+      "orange",
+      "yellow"
+    ]
+  },
+  "king cobra": {
+    "size": "large",
+    "habitat": [
+      "Asia",
+      "tropical rainforests",
+      "bamboo jungles"
+    ],
+    "features": [
+      "hood on neck",
+      "smooth scales",
+      "venomous fangs"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "slithers",
+      "climbs",
+      "swims"
+    ],
+    "behavior": [
+      "guards eggs",
+      "feeds primarily on other snakes"
+    ],
+    "color": [
+      "olive green",
+      "tan",
+      "black",
+      "yellow bands"
+    ]
+  },
+  "boa constrictor": {
+    "size": "large",
+    "habitat": [
+      "Central America",
+      "South America",
+      "rainforests",
+      "arid scrublands"
+    ],
+    "features": [
+      "heavy-bodied",
+      "distinct saddle patterns",
+      "non-venomous constrictor"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "slithers",
+      "climbs",
+      "swims"
+    ],
+    "behavior": [
+      "solitary",
+      "nocturnal",
+      "ambush hunter"
+    ],
+    "color": [
+      "brown",
+      "tan",
+      "gray",
+      "reddish markings"
+    ]
+  },
+  "galapagos tortoise": {
+    "size": "very large",
+    "habitat": [
+      "Galapagos Islands",
+      "volcanic slopes",
+      "humid highlands"
+    ],
+    "features": [
+      "massive domed or saddleback shell",
+      "thick elephantine feet",
+      "long neck"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "walks very slowly"
+    ],
+    "behavior": [
+      "long-lived",
+      "herbivorous browser",
+      "basks in sun"
+    ],
+    "color": [
+      "dark gray",
+      "brown"
+    ]
+  },
+  "leatherback sea turtle": {
+    "size": "very large",
+    "habitat": [
+      "global oceans",
+      "pelagic waters"
+    ],
+    "features": [
+      "leathery rubbery skin instead of hard shell",
+      "ridges along back",
+      "large flippers"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims across oceans",
+      "crawls onto beaches to nest"
+    ],
+    "behavior": [
+      "migratory",
+      "deep diver"
+    ],
+    "color": [
+      "dark gray",
+      "black with white spots"
+    ]
+  },
+  "diamondback rattlesnake": {
+    "size": "medium",
+    "habitat": [
+      "North America",
+      "deserts",
+      "brushlands",
+      "pine forests"
+    ],
+    "features": [
+      "diamond pattern along back",
+      "rattle at tail tip",
+      "venomous fangs"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "slithers"
+    ],
+    "behavior": [
+      "venomous ambush predator",
+      "vibrates rattle when threatened"
+    ],
+    "color": [
+      "brown",
+      "gray",
+      "olive",
+      "yellowish"
+    ]
+  },
+  "green anaconda": {
+    "size": "very large",
+    "habitat": [
+      "South America",
+      "swamps",
+      "marshes",
+      "slow-moving streams"
+    ],
+    "features": [
+      "heavy-bodied giant snake",
+      "eyes and nostrils on top of head",
+      "non-venomous constrictor"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims proficiently",
+      "slithers slowly on land"
+    ],
+    "behavior": [
+      "aquatic tendency",
+      "ambush predator"
+    ],
+    "color": [
+      "olive green",
+      "black blotches"
+    ]
+  },
+  "leopard gecko": {
+    "size": "very small",
+    "habitat": [
+      "Asia",
+      "deserts",
+      "arid grasslands"
+    ],
+    "features": [
+      "spotted skin pattern",
+      "movable eyelids",
+      "fat-storing tail"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "walks",
+      "runs on ground"
+    ],
+    "behavior": [
+      "nocturnal",
+      "ground-dwelling",
+      "docile"
+    ],
+    "color": [
+      "yellow",
+      "white",
+      "black spots"
+    ]
+  },
+  "tuatara": {
+    "size": "small",
+    "habitat": [
+      "New Zealand",
+      "rocky offshore islands"
+    ],
+    "features": [
+      "spiky crest along back",
+      "resembles lizard but belongs to ancient distinct lineage",
+      "parietal 'third' eye"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "walks",
+      "burrows"
+    ],
+    "behavior": [
+      "nocturnal",
+      "prefers cooler temperatures",
+      "long-lived"
+    ],
+    "color": [
+      "olive green",
+      "brown",
+      "gray"
+    ]
+  },
+  "water monitor": {
+    "size": "large",
+    "habitat": [
+      "Asia",
+      "tropical wetlands",
+      "swamps",
+      "mangroves"
+    ],
+    "features": [
+      "long powerful tail",
+      "long neck",
+      "sharp claws and teeth",
+      "dark scaly skin"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims",
+      "runs",
+      "climbs trees"
+    ],
+    "behavior": [
+      "opportunistic carnivore/scavenger",
+      "alert"
+    ],
+    "color": [
+      "black",
+      "yellow spots"
+    ]
+  },
+  "loggerhead sea turtle": {
+    "size": "large",
+    "habitat": [
+      "temperate and tropical oceans",
+      "coastal bays"
+    ],
+    "features": [
+      "large head with strong jaws",
+      "reddish-brown hard shell",
+      "powerful flippers"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims",
+      "crawls on nesting beaches"
+    ],
+    "behavior": [
+      "migratory",
+      "solitary ocean dweller"
+    ],
+    "color": [
+      "reddish-brown",
+      "yellow-brown"
+    ]
+  },
+  "corn snake": {
+    "size": "small",
+    "habitat": [
+      "North America",
+      "fields",
+      "forest openings",
+      "farm buildings"
+    ],
+    "features": [
+      "slender body",
+      "orange/red blotches outlined in black",
+      "non-venomous"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "slithers",
+      "climbs"
+    ],
+    "behavior": [
+      "docile",
+      "nocturnal or crepuscular",
+      "constrictor"
+    ],
+    "color": [
+      "orange",
+      "red",
+      "yellow",
+      "black"
+    ]
+  },
+  "frilled lizard": {
+    "size": "small",
+    "habitat": [
+      "Australia",
+      "New Guinea",
+      "tropical and subtropical forests",
+      "savanna woodlands"
+    ],
+    "features": [
+      "large frill of skin around neck that expands",
+      "long tail",
+      "sharp claws"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "runs on hind legs",
+      "climbs trees"
+    ],
+    "behavior": [
+      "arborial",
+      "displays frill and hisses when threatened"
+    ],
+    "color": [
+      "brown",
+      "gray",
+      "orange-brown"
+    ]
+  },
+  "thorny devil": {
+    "size": "very small",
+    "habitat": [
+      "Australia",
+      "arid deserts",
+      "scrublands"
+    ],
+    "features": [
+      "body covered in conical spines",
+      "false head on back",
+      "absorbs water through skin"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "walks with stiff jerky gait"
+    ],
+    "behavior": [
+      "specialized ant eater",
+      "solitary",
+      "slow-moving"
+    ],
+    "color": [
+      "brown",
+      "tan",
+      "yellowish camouflage"
+    ]
+  },
+  "black mamba": {
+    "size": "medium",
+    "habitat": [
+      "Africa",
+      "savanna",
+      "woodlands",
+      "rocky slopes"
+    ],
+    "features": [
+      "fast-moving",
+      "ink-black interior of mouth",
+      "highly neurotoxic venom"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "slithers very fast"
+    ],
+    "behavior": [
+      "nervous and aggressive when cornered",
+      "terrestrial"
+    ],
+    "color": [
+      "gray",
+      "dark brown",
+      "olive"
+    ]
+  },
+  "poison dart frog": {
+    "size": "very small",
+    "habitat": [
+      "Central America",
+      "South America",
+      "tropical rainforests"
+    ],
+    "features": [
+      "bright warning coloration",
+      "toxins in skin secretions",
+      "sticky toe pads"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "hops",
+      "climbs"
+    ],
+    "behavior": [
+      "diurnal",
+      "territorial",
+      "parental care of tadpoles"
+    ],
+    "color": [
+      "blue",
+      "yellow",
+      "red",
+      "green",
+      "black"
+    ]
+  },
+  "axolotl": {
+    "size": "very small",
+    "habitat": [
+      "Mexico",
+      "freshwater lakes",
+      "canals"
+    ],
+    "features": [
+      "external feathery gills",
+      "paedomorphic (retains larval traits)",
+      "regenerative abilities"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims",
+      "walks on lake bottom"
+    ],
+    "behavior": [
+      "aquatic",
+      "solitary",
+      "nocturnal"
+    ],
+    "color": [
+      "pink",
+      "white",
+      "black",
+      "brown",
+      "golden"
+    ]
+  },
+  "goliath frog": {
+    "size": "medium",
+    "habitat": [
+      "West Africa",
+      "fast-flowing rivers",
+      "waterfalls"
+    ],
+    "features": [
+      "largest living frog",
+      "strong webbed feet",
+      "large muscular body"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "jumps",
+      "swims"
+    ],
+    "behavior": [
+      "aquatic",
+      "nocturnal hunter"
+    ],
+    "color": [
+      "green",
+      "brown"
+    ]
+  },
+  "chinese giant salamander": {
+    "size": "large",
+    "habitat": [
+      "China",
+      "mountain streams",
+      "rocky lakes"
+    ],
+    "features": [
+      "largest amphibian in the world",
+      "flat head",
+      "tiny eyes",
+      "wrinkled skin"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims",
+      "crawls along riverbed"
+    ],
+    "behavior": [
+      "aquatic",
+      "nocturnal",
+      "solitary"
+    ],
+    "color": [
+      "dark brown",
+      "black, mottled"
+    ]
+  },
+  "cane toad": {
+    "size": "small to medium",
+    "habitat": [
+      "Central and South America (introduced elsewhere)",
+      "grasslands",
+      "forest edges",
+      "urban areas"
+    ],
+    "features": [
+      "dry warty skin",
+      "large parotoid poison glands behind eyes",
+      "stout body"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "hops",
+      "walks"
+    ],
+    "behavior": [
+      "nocturnal",
+      "invasive species in many regions",
+      "opportunistic eater"
+    ],
+    "color": [
+      "brown",
+      "olive",
+      "yellowish-brown"
+    ]
+  },
+  "red-eyed tree frog": {
+    "size": "very small",
+    "habitat": [
+      "Central America",
+      "tropical rainforests near water"
+    ],
+    "features": [
+      "striking red eyes",
+      "neon green body with blue and yellow flanks",
+      "orange toe pads"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "climbs trees",
+      "leaps"
+    ],
+    "behavior": [
+      "arborial",
+      "nocturnal",
+      "sleeps during day with eyes closed"
+    ],
+    "color": [
+      "green",
+      "red",
+      "blue",
+      "yellow"
+    ]
+  },
+  "tiger salamander": {
+    "size": "small",
+    "habitat": [
+      "North America",
+      "forests",
+      "grasslands",
+      "near ponds"
+    ],
+    "features": [
+      "stout body",
+      "yellow blotches or stripes on dark background",
+      "broad head"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "walks",
+      "swims",
+      "burrows underground"
+    ],
+    "behavior": [
+      "fossorial (spends most time underground)",
+      "nocturnal"
+    ],
+    "color": [
+      "black",
+      "brown",
+      "yellow spots"
+    ]
+  },
+  "fire salamander": {
+    "size": "very small",
+    "habitat": [
+      "Europe",
+      "deciduous forests",
+      "near streams"
+    ],
+    "features": [
+      "glossy black body with bright yellow spots or stripes",
+      "poison glands"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "walks slowly"
+    ],
+    "behavior": [
+      "terrestrial",
+      "nocturnal",
+      "secretes defensive toxins"
+    ],
+    "color": [
+      "black",
+      "yellow"
+    ]
+  },
+  "american bullfrog": {
+    "size": "medium",
+    "habitat": [
+      "North America (and introduced globally)",
+      "ponds",
+      "lakes",
+      "swamps"
+    ],
+    "features": [
+      "large tympanum (ear drum)",
+      "olive-green skin",
+      "powerful hind legs"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "leaps",
+      "swims"
+    ],
+    "behavior": [
+      "aquatic",
+      "territorial males",
+      "vocal croaking"
+    ],
+    "color": [
+      "green",
+      "brown",
+      "olive"
+    ]
+  },
+  "smooth newt": {
+    "size": "very small",
+    "habitat": [
+      "Europe",
+      "ponds",
+      "ditches",
+      "damp terrestrial habitats"
+    ],
+    "features": [
+      "smooth skin",
+      "rounded tail",
+      "breeding males develop wavy crest"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims in water",
+      "walks on land"
+    ],
+    "behavior": [
+      "amphibious",
+      "spends winter on land under logs"
+    ],
+    "color": [
+      "olive brown",
+      "orange-yellow belly with spots"
+    ]
+  },
+  "mudpuppy": {
+    "size": "small",
+    "habitat": [
+      "North America",
+      "lakes",
+      "rivers",
+      "streams"
+    ],
+    "features": [
+      "permanent bushy red external gills",
+      "sluggish aquatic salamander",
+      "flat head"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims",
+      "walks on bottom"
+    ],
+    "behavior": [
+      "fully aquatic",
+      "nocturnal"
+    ],
+    "color": [
+      "rusty brown",
+      "gray with dark spots"
+    ]
+  },
+  "african clawed frog": {
+    "size": "small",
+    "habitat": [
+      "Sub-Saharan Africa",
+      "ponds",
+      "slow streams",
+      "stagnant pools"
+    ],
+    "features": [
+      "fully aquatic",
+      "flat body",
+      "claws on three inner toes of hind feet",
+      "no tongue"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims",
+      "kicks with powerful webbed hind legs"
+    ],
+    "behavior": [
+      "aquatic",
+      "gregarious",
+      "uses claws to tear food"
+    ],
+    "color": [
+      "olive",
+      "brown",
+      "gray",
+      "albino variants"
+    ]
+  },
+  "glass frog": {
+    "size": "very small",
+    "habitat": [
+      "Central America",
+      "South America",
+      "tropical rainforest canopy near streams"
+    ],
+    "features": [
+      "transparent ventral skin showing internal organs",
+      "green dorsal skin"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "climbs vegetation",
+      "leaps"
+    ],
+    "behavior": [
+      "arborial",
+      "nocturnal",
+      "male guards egg clutches on leaves"
+    ],
+    "color": [
+      "translucent",
+      "green"
+    ]
+  },
+  "tomato frog": {
+    "size": "very small",
+    "habitat": [
+      "Madagascar",
+      "rainforests",
+      "swamps",
+      "gardens"
+    ],
+    "features": [
+      "bright red or orange-red rounded body",
+      "secretes a sticky white defensive substance"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "hops",
+      "burrows"
+    ],
+    "behavior": [
+      "terrestrial",
+      "nocturnal",
+      "puffs up when threatened"
+    ],
+    "color": [
+      "red",
+      "orange",
+      "yellowish belly"
+    ]
+  },
+  "hellbender": {
+    "size": "medium",
+    "habitat": [
+      "North America",
+      "fast-flowing clear rivers and streams"
+    ],
+    "features": [
+      "large wrinkled skin folds for respiration",
+      "flat head and body",
+      "tiny eyes"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "crawls along riverbed",
+      "swims clumsily"
+    ],
+    "behavior": [
+      "aquatic",
+      "nocturnal",
+      "hides under large flat rocks"
+    ],
+    "color": [
+      "brown",
+      "gray",
+      "olive"
+    ]
+  },
+  "bluefin tuna": {
+    "size": "large",
+    "habitat": [
+      "Atlantic Ocean",
+      "Mediterranean Sea",
+      "pelagic open ocean"
+    ],
+    "features": [
+      "torpedo-shaped body",
+      "retractable fins",
+      "metallic blue and silver coloring"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims continuously at high speeds"
+    ],
+    "behavior": [
+      "migratory",
+      "forms schools",
+      "warm-blooded fish adaptation"
+    ],
+    "color": [
+      "blue",
+      "silver",
+      "white"
+    ]
+  },
+  "clownfish": {
+    "size": "very small",
+    "habitat": [
+      "Indian Ocean",
+      "Pacific Ocean",
+      "coral reefs"
+    ],
+    "features": [
+      "bright orange body with white vertical bars outlined in black",
+      "mucus coating"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "swims near sea anemones"
+    ],
+    "behavior": [
+      "symbiotic relationship with sea anemones",
+      "social hierarchy"
+    ],
+    "color": [
+      "orange",
+      "white",
+      "black"
+    ]
+  },
+  "seahorse": {
+    "size": "very small",
+    "habitat": [
+      "shallow tropical and temperate waters",
+      "seagrass beds",
+      "coral reefs"
+    ],
+    "features": [
+      "horse-like head",
+      "tubular snout",
+      "prehensile tail",
+      "bony armor plates"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims vertically using dorsal fin",
+      "anchors with tail"
+    ],
+    "behavior": [
+      "monogamous mating",
+      "males carry eggs in a brood pouch"
+    ],
+    "color": [
+      "yellow",
+      "brown",
+      "black",
+      "red",
+      "green camouflage"
+    ]
+  },
+  "electric eel": {
+    "size": "large",
+    "habitat": [
+      "South America",
+      "Amazon basin",
+      "muddy freshwater streams",
+      "swamps"
+    ],
+    "features": [
+      "elongated eel-like body",
+      "specialized organs that generate electricity"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims",
+      "navigates murky water using weak electrical pulses"
+    ],
+    "behavior": [
+      "nocturnal",
+      "uses electric shocks for hunting and defense"
+    ],
+    "color": [
+      "gray",
+      "brown",
+      "dark green",
+      "orange-yellow belly"
+    ]
+  },
+  "red piranha": {
+    "size": "small",
+    "habitat": [
+      "South America",
+      "Amazon river basin",
+      "freshwater rivers",
+      "flooded forests"
+    ],
+    "features": [
+      "triangular razor-sharp teeth",
+      "deep-bodied profile",
+      "reddish underbelly"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "swims in schools"
+    ],
+    "behavior": [
+      "schooling fish",
+      "carnivorous feeding frenzies when prey is wounded"
+    ],
+    "color": [
+      "silver",
+      "gray",
+      "red"
+    ]
+  },
+  "common carp": {
+    "size": "medium",
+    "habitat": [
+      "Europe",
+      "Asia (introduced worldwide)",
+      "lakes",
+      "slow rivers",
+      "ponds"
+    ],
+    "features": [
+      "barbels near mouth",
+      "heavy scales",
+      "stout body"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "swims along bottom"
+    ],
+    "behavior": [
+      "bottom feeder",
+      "gregarious"
+    ],
+    "color": [
+      "olive green",
+      "gold",
+      "bronze",
+      "gray"
+    ]
+  },
+  "atlantic salmon": {
+    "size": "medium",
+    "habitat": [
+      "North Atlantic Ocean",
+      "rivers",
+      "streams"
+    ],
+    "features": [
+      "torpedo-shaped body",
+      "silver sides with dark spots",
+      "powerful tail"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims long distances",
+      "leaps up waterfalls"
+    ],
+    "behavior": [
+      "anadromous (born in freshwater, lives in ocean, returns to freshwater to spawn)"
+    ],
+    "color": [
+      "silver",
+      "blue-gray",
+      "black spots"
+    ]
+  },
+  "northern pike": {
+    "size": "medium to large",
+    "habitat": [
+      "North America",
+      "Eurasia",
+      "vegetated lakes",
+      "slow rivers"
+    ],
+    "features": [
+      "elongated duck-bill snout",
+      "sharp teeth",
+      "ambush predator body"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "darts forward rapidly"
+    ],
+    "behavior": [
+      "solitary ambush hunter",
+      "territorial"
+    ],
+    "color": [
+      "olive green",
+      "yellow-white bean spots"
+    ]
+  },
+  "anglerfish": {
+    "size": "small to medium",
+    "habitat": [
+      "deep sea",
+      "bathypelagic ocean zone"
+    ],
+    "features": [
+      "bioluminescent lure (esca) on head",
+      "sharp teeth",
+      "large mouth"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims slowly in deep water",
+      "walks on ocean floor with fins"
+    ],
+    "behavior": [
+      "solitary",
+      "deep-sea dweller",
+      "males attach permanently to females as parasites"
+    ],
+    "color": [
+      "dark brown",
+      "black"
+    ]
+  },
+  "lionfish": {
+    "size": "small",
+    "habitat": [
+      "Indo-Pacific (invasive in Atlantic)",
+      "coral reefs",
+      "rocky crevices"
+    ],
+    "features": [
+      "long venomous spines",
+      "red, brown, and white zebra-like stripes",
+      "fan-like pectoral fins"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims slowly around reefs"
+    ],
+    "behavior": [
+      "solitary",
+      "invasive predator",
+      "nocturnal hunter"
+    ],
+    "color": [
+      "red",
+      "brown",
+      "white"
+    ]
+  },
+  "moray eel": {
+    "size": "medium to large",
+    "habitat": [
+      "tropical and subtropical oceans",
+      "coral reefs",
+      "rocky crevices"
+    ],
+    "features": [
+      "snakelike body",
+      "continuous dorsal fin",
+      "prominent jaw with sharp teeth",
+      "no scales"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "slithers through water and reef gaps"
+    ],
+    "behavior": [
+      "nocturnal",
+      "ambush hunter",
+      "often coexists with cleaner shrimp"
+    ],
+    "color": [
+      "brown",
+      "green",
+      "yellow mottled patterns"
+    ]
+  },
+  "barracuda": {
+    "size": "medium to large",
+    "habitat": [
+      "tropical and subtropical oceans",
+      "coral reefs",
+      "seagrass beds"
+    ],
+    "features": [
+      "torpedo shape",
+      "prominent lower jaw",
+      "fearsome fangs",
+      "silver scales"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims at lightning-fast speeds"
+    ],
+    "behavior": [
+      "ambush predator",
+      "solitary or in small schools"
+    ],
+    "color": [
+      "silver",
+      "gray",
+      "dark upper crossbars"
+    ]
+  },
+  "arapaima": {
+    "size": "very large",
+    "habitat": [
+      "South America",
+      "Amazon river basin",
+      "floodplains"
+    ],
+    "features": [
+      "one of largest freshwater fish",
+      "bony tongue",
+      "streamlined body",
+      "air breather"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims",
+      "surfaces to gulp air"
+    ],
+    "behavior": [
+      "solitary",
+      "parental care of young"
+    ],
+    "color": [
+      "greenish-black",
+      "reddish-pink scales toward tail"
+    ]
+  },
+  "coelacanth": {
+    "size": "large",
+    "habitat": [
+      "Indian Ocean",
+      "deep marine caves"
+    ],
+    "features": [
+      "lobe-finned fish",
+      "ancient lineage (living fossil)",
+      "heavy scales",
+      "hinged skull"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "drifts and swims using paired lobed fins in a walking motion"
+    ],
+    "behavior": [
+      "nocturnal",
+      "deep-sea cave dweller",
+      "solitary"
+    ],
+    "color": [
+      "deep blue, mottled with white spots"
+    ]
+  },
+  "leafy seadragon": {
+    "size": "very small",
+    "habitat": [
+      "Australia",
+      "shallow coastal waters",
+      "kelp forests"
+    ],
+    "features": [
+      "leaf-like appendages serving as camouflage",
+      "long slender snout"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "drifts slowly using tiny translucent fins"
+    ],
+    "behavior": [
+      "solitary",
+      "males carry eggs on tail sponge"
+    ],
+    "color": [
+      "olive green",
+      "yellowish, brown with leaf-like lobes"
+    ]
+  },
+  "archerfish": {
+    "size": "small",
+    "habitat": [
+      "Asia",
+      "Australia",
+      "mangrove swamps",
+      "estuaries",
+      "freshwater streams"
+    ],
+    "features": [
+      "specialized mouth structure to shoot water droplets",
+      "flattened head"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "swims near surface"
+    ],
+    "behavior": [
+      "spits water jets to knock down land insects into water"
+    ],
+    "color": [
+      "silver",
+      "yellowish with dark vertical bands"
+    ]
+  },
+  "mandarinfish": {
+    "size": "very small",
+    "habitat": [
+      "Pacific Ocean",
+      "shallow coral reefs",
+      "protected lagoons"
+    ],
+    "features": [
+      "vibrant psychedelic blue, green, and orange pattern",
+      "no scales",
+      "large gill covers"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "hovers and glides near reef floor"
+    ],
+    "behavior": [
+      "bottom-dwelling",
+      "nocturnal/crepuscular mating dances"
+    ],
+    "color": [
+      "blue",
+      "green",
+      "orange",
+      "yellow"
+    ]
+  },
+  "parrotfish": {
+    "size": "small to medium",
+    "habitat": [
+      "tropical oceans",
+      "coral reefs"
+    ],
+    "features": [
+      "fused teeth forming a beak-like mouth",
+      "vibrant coloration",
+      "produces mucus cocoon at night"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "swims using pectoral fins"
+    ],
+    "behavior": [
+      "scrapes algae from coral, excretes sand",
+      "gregarious"
+    ],
+    "color": [
+      "blue",
+      "green",
+      "pink",
+      "yellow"
+    ]
+  },
+  "swordfish": {
+    "size": "large",
+    "habitat": [
+      "temperate and tropical oceans",
+      "pelagic open waters"
+    ],
+    "features": [
+      "long flat bill (sword)",
+      "streamlined body",
+      "no scales or teeth in adults"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims at high speeds"
+    ],
+    "behavior": [
+      "solitary",
+      "migratory",
+      "deep ocean hunter"
+    ],
+    "color": [
+      "dark brown/blue above, silvery white below"
+    ]
+  },
+  "great white shark": {
+    "size": "large",
+    "habitat": [
+      "coastal and offshore waters",
+      "temperate to tropical oceans"
+    ],
+    "features": [
+      "torpedo shape",
+      "triangular serrated teeth",
+      "large black eyes",
+      "white underbelly"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims continuously"
+    ],
+    "behavior": [
+      "apex marine predator",
+      "solitary or paired"
+    ],
+    "color": [
+      "gray",
+      "blue-gray",
+      "white"
+    ]
+  },
+  "hammerhead shark": {
+    "size": "large",
+    "habitat": [
+      "tropical and warm temperate oceans",
+      "coastal waters",
+      "continental shelves"
+    ],
+    "features": [
+      "hammer-shaped head (cephalofoil)",
+      "wide-set eyes",
+      "gray-brown body"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims",
+      "migrates in schools"
+    ],
+    "behavior": [
+      "social in groups during day, solitary hunters at night"
+    ],
+    "color": [
+      "gray",
+      "brownish-gray",
+      "white belly"
+    ]
+  },
+  "whale shark": {
+    "size": "massive",
+    "habitat": [
+      "tropical and warm open oceans"
+    ],
+    "features": [
+      "largest fish species",
+      "broad flat head",
+      "white checkerboard spot pattern",
+      "filter-feeding mouth"
+    ],
+    "diet": "carnivore (filter feeder on plankton)",
+    "movement": [
+      "swims slowly"
+    ],
+    "behavior": [
+      "docile",
+      "solitary",
+      "migratory"
+    ],
+    "color": [
+      "dark gray/blue with white spots and stripes"
+    ]
+  },
+  "manta ray": {
+    "size": "large",
+    "habitat": [
+      "tropical and subtropical oceans",
+      "coastal reefs",
+      "pelagic zones"
+    ],
+    "features": [
+      "massive triangular pectoral fins (wings)",
+      "cephalic lobes near mouth",
+      "flat body",
+      "no stinging spine"
+    ],
+    "diet": "carnivore (filter feeder on zooplankton)",
+    "movement": [
+      "swims with graceful wing-like flapping motion",
+      "leaps out of water"
+    ],
+    "behavior": [
+      "docile",
+      "social",
+      "curious"
+    ],
+    "color": [
+      "black",
+      "dark gray, white belly"
+    ]
+  },
+  "stingray": {
+    "size": "medium",
+    "habitat": [
+      "coastal tropical and subtropical marine waters",
+      "some freshwater rivers"
+    ],
+    "features": [
+      "flat disc-like body",
+      "long whip-like tail with venomous barbed spine"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "glides along sandy sea floor"
+    ],
+    "behavior": [
+      "bottom-dweller",
+      "buries in sand for camouflage"
+    ],
+    "color": [
+      "brown",
+      "gray",
+      "olive, sandy camouflage"
+    ]
+  },
+  "sawfish": {
+    "size": "large",
+    "habitat": [
+      "tropical and subtropical coastal waters",
+      "estuaries",
+      "river mouths"
+    ],
+    "features": [
+      "long flat snout (rostrum) lined with sharp teeth",
+      "shark-like body with ray fins"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims along shallow coastal and river bottoms"
+    ],
+    "behavior": [
+      "bottom-dwelling",
+      "uses saw to slash through fish schools"
+    ],
+    "color": [
+      "gray",
+      "olive-brown"
+    ]
+  },
+  "tiger shark": {
+    "size": "large",
+    "habitat": [
+      "tropical and subtropical coastal waters",
+      "coral reefs"
+    ],
+    "features": [
+      "dark vertical stripes resembling a tiger",
+      "blunt snout",
+      "powerful jaws with serrated teeth"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims across open ocean and shallows"
+    ],
+    "behavior": [
+      "apex predator",
+      "nocturnal hunter",
+      "indiscriminate eater"
+    ],
+    "color": [
+      "blue-gray, gray with dark stripes"
+    ]
+  },
+  "thresher shark": {
+    "size": "large",
+    "habitat": [
+      "temperate and tropical oceans",
+      "pelagic waters"
+    ],
+    "features": [
+      "extremely long upper tail lobe (half its total length)",
+      "short snout"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims fast",
+      "leaps out of water"
+    ],
+    "behavior": [
+      "uses long tail like a whip to stun fish",
+      "solitary"
+    ],
+    "color": [
+      "brown, blue-gray, purple-gray sheen"
+    ]
+  },
+  "electric ray": {
+    "size": "medium",
+    "habitat": [
+      "temperate and tropical shallow coastal waters"
+    ],
+    "features": [
+      "rounded circular disc body",
+      "short tail",
+      "electric organs that discharge high voltage"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims slowly along sandy or muddy bottoms"
+    ],
+    "behavior": [
+      "bottom-dweller",
+      "stuns prey with electric shock"
+    ],
+    "color": [
+      "brown",
+      "gray, mottled patterns"
+    ]
+  },
+  "port jackson shark": {
+    "size": "small",
+    "habitat": [
+      "waters of Australia",
+      "rocky reefs",
+      "sandy seabeds"
+    ],
+    "features": [
+      "harness-like dark markings on body",
+      "spines on dorsal fins",
+      "pig-like snout"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims along bottom",
+      "rests on seabed"
+    ],
+    "behavior": [
+      "bottom-dweller",
+      "oviparous (lays distinctive screw-shaped egg cases)",
+      "docile"
+    ],
+    "color": [
+      "gray, brown with dark harness stripes"
+    ]
+  },
+  "monarch butterfly": {
+    "size": "very small",
+    "habitat": [
+      "North America",
+      "Central America",
+      "fields",
+      "meadows"
+    ],
+    "features": [
+      "orange and black patterned wings",
+      "white spots",
+      "slender body"
+    ],
+    "diet": "herbivore (nectar)",
+    "movement": [
+      "flies",
+      "migrates long distances"
+    ],
+    "behavior": [
+      "famous long-distance multi-generational migration",
+      "toxic to predators due to milkweed diet"
+    ],
+    "color": [
+      "orange",
+      "black",
+      "white"
+    ]
+  },
+  "honeybee": {
+    "size": "very small",
+    "habitat": [
+      "worldwide",
+      "gardens",
+      "forests",
+      "meadows",
+      "hives"
+    ],
+    "features": [
+      "fuzzy body",
+      "yellow and black stripes",
+      "stinger",
+      "pollen baskets on legs"
+    ],
+    "diet": "herbivore (nectar and pollen)",
+    "movement": [
+      "flies",
+      "crawls"
+    ],
+    "behavior": [
+      "lives in complex colonies",
+      "produces honey",
+      "pollinator"
+    ],
+    "color": [
+      "yellow",
+      "black"
+    ]
+  },
+  "army ant": {
+    "size": "very small",
+    "habitat": [
+      "Central America",
+      "South America",
+      "Africa",
+      "tropical forests"
+    ],
+    "features": [
+      "powerful mandibles",
+      "blind or poor vision",
+      "wingless workers"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "marches in massive columns on foot"
+    ],
+    "behavior": [
+      "nomadic",
+      "forms raiding swarms, builds living bivouacs"
+    ],
+    "color": [
+      "dark brown",
+      "reddish-black"
+    ]
+  },
+  "hercules beetle": {
+    "size": "small to medium",
+    "habitat": [
+      "Central America",
+      "South America",
+      "tropical rainforests"
+    ],
+    "features": [
+      "massive horns on male head and thorax",
+      "hard exoskeleton",
+      "spotted wing covers"
+    ],
+    "diet": "herbivore (sap and fruit)",
+    "movement": [
+      "flies clumsily",
+      "crawls",
+      "lifts heavy objects"
+    ],
+    "behavior": [
+      "nocturnal",
+      "males use horns to battle rivals"
+    ],
+    "color": [
+      "black head/horns",
+      "olive-green or yellowish wing covers with spots"
+    ]
+  },
+  "praying mantis": {
+    "size": "very small to small",
+    "habitat": [
+      "temperate and tropical regions worldwide",
+      "gardens",
+      "shrubs"
+    ],
+    "features": [
+      "raptorial forelegs for catching prey",
+      "triangular head with 180-degree rotation",
+      "elongated body"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "crawls",
+      "flies short distances"
+    ],
+    "behavior": [
+      "ambush predator",
+      "camouflaged"
+    ],
+    "color": [
+      "green",
+      "brown",
+      "tan"
+    ]
+  },
+  "emperor dragonfly": {
+    "size": "small",
+    "habitat": [
+      "Europe",
+      "Asia",
+      "Africa",
+      "near ponds",
+      "lakes",
+      "slow streams"
+    ],
+    "features": [
+      "large compound eyes",
+      "four transparent wings",
+      "long slender abdomen"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "flies with exceptional agility and speed"
+    ],
+    "behavior": [
+      "aerial hunter",
+      "territorial"
+    ],
+    "color": [
+      "blue abdomen",
+      "green thorax",
+      "transparent wings"
+    ]
+  },
+  "mosquito": {
+    "size": "microscopic to very small",
+    "habitat": [
+      "worldwide",
+      "near standing water",
+      "wetlands",
+      "urban areas"
+    ],
+    "features": [
+      "slender fragile body",
+      "long piercing proboscis on females",
+      "scaled wings"
+    ],
+    "diet": "omnivore (females drink blood, males drink plant nectar)",
+    "movement": [
+      "flies with buzzing sound"
+    ],
+    "behavior": [
+      "vectors for various diseases",
+      "crepuscular/nocturnal"
+    ],
+    "color": [
+      "gray",
+      "brown",
+      "black with white bands"
+    ]
+  },
+  "housefly": {
+    "size": "very small",
+    "habitat": [
+      "worldwide",
+      "near human settlements",
+      "farms"
+    ],
+    "features": [
+      "large red compound eyes",
+      "sponge-like mouthparts",
+      "two wings"
+    ],
+    "diet": "omnivore (organic waste, decaying matter)",
+    "movement": [
+      "flies quickly",
+      "crawls on surfaces"
+    ],
+    "behavior": [
+      "synanthropic (lives closely with humans)",
+      "vector for pathogens"
+    ],
+    "color": [
+      "gray with dark stripes on thorax"
+    ]
+  },
+  "ladybug": {
+    "size": "very small",
+    "habitat": [
+      "worldwide",
+      "gardens",
+      "fields",
+      "forests"
+    ],
+    "features": [
+      "domed round shell",
+      "red or orange body with black spots",
+      "short legs"
+    ],
+    "diet": "carnivore (eats aphids and small pests)",
+    "movement": [
+      "crawls",
+      "flies"
+    ],
+    "behavior": [
+      "beneficial agricultural insect",
+      "gregarious over wintering"
+    ],
+    "color": [
+      "red",
+      "orange",
+      "black spots"
+    ]
+  },
+  "firefly": {
+    "size": "very small",
+    "habitat": [
+      "temperate and tropical regions",
+      "fields",
+      "forest edges",
+      "marshes"
+    ],
+    "features": [
+      "soft-bodied beetle",
+      "light-producing organ on abdomen (bioluminescence)"
+    ],
+    "diet": "omnivore (predatory larvae, adult nectar/pollen or none)",
+    "movement": [
+      "flies with glowing pulses",
+      "crawls"
+    ],
+    "behavior": [
+      "nocturnal",
+      "uses light flashes for mating signals"
+    ],
+    "color": [
+      "brown",
+      "black with yellow/orange margins"
+    ]
+  },
+  "goliath beetle": {
+    "size": "small to medium",
+    "habitat": [
+      "Africa",
+      "tropical rainforests"
+    ],
+    "features": [
+      "one of heaviest insects",
+      "heavy sturdy body",
+      "velvety black and white pattern on back"
+    ],
+    "diet": "herbivore (sap, fruit, nectar)",
+    "movement": [
+      "flies with heavy buzzing sound",
+      "crawls"
+    ],
+    "behavior": [
+      "arborial",
+      "diurnal"
+    ],
+    "color": [
+      "black",
+      "white",
+      "brown"
+    ]
+  },
+  "cicada": {
+    "size": "very small",
+    "habitat": [
+      "temperate and tropical forests",
+      "orchards"
+    ],
+    "features": [
+      "large transparent wings",
+      "prominent eyes",
+      "sound-producing tymbals on abdomen"
+    ],
+    "diet": "herbivore (plant sap)",
+    "movement": [
+      "flies",
+      "crawls"
+    ],
+    "behavior": [
+      "known for loud mating choruses",
+      "long subterranean nymph stages (e.g., 17 years)"
+    ],
+    "color": [
+      "green",
+      "brown",
+      "black"
+    ]
+  },
+  "stink bug": {
+    "size": "very small",
+    "habitat": [
+      "worldwide",
+      "gardens",
+      "farms",
+      "forests"
+    ],
+    "features": [
+      "shield-shaped body",
+      "piercing-sucking mouthparts",
+      "scent glands that emit foul odor"
+    ],
+    "diet": "herbivore (plant juices)",
+    "movement": [
+      "flies clumsily",
+      "crawls"
+    ],
+    "behavior": [
+      "releases defensive odor when disturbed",
+      "agricultural pest"
+    ],
+    "color": [
+      "green",
+      "brown",
+      "gray",
+      "mottled"
+    ]
+  },
+  "termite": {
+    "size": "very small",
+    "habitat": [
+      "tropics",
+      "subtropics",
+      "temperate regions",
+      "woodlands",
+      "forests"
+    ],
+    "features": [
+      "soft pale body",
+      "chewing mouthparts",
+      "eusocial caste system"
+    ],
+    "diet": "herbivore (wood, cellulose)",
+    "movement": [
+      "crawls",
+      "some reproductives fly"
+    ],
+    "behavior": [
+      "builds massive mud mounds/nests",
+      "wood-destroying insect"
+    ],
+    "color": [
+      "white",
+      "cream",
+      "light brown"
+    ]
+  },
+  "bumblebee": {
+    "size": "very small",
+    "habitat": [
+      "Northern Hemisphere",
+      "temperate meadows",
+      "alpine regions",
+      "gardens"
+    ],
+    "features": [
+      "stout fuzzy body",
+      "yellow and black bands",
+      "large pollen baskets"
+    ],
+    "diet": "herbivore (nectar and pollen)",
+    "movement": [
+      "flies",
+      "crawls"
+    ],
+    "behavior": [
+      "forms annual colonies",
+      "important agricultural pollinator"
+    ],
+    "color": [
+      "yellow",
+      "black",
+      "orange/white tail variations"
+    ]
+  },
+  "blue morpho butterfly": {
+    "size": "small",
+    "habitat": [
+      "Central America",
+      "South America",
+      "tropical rainforests"
+    ],
+    "features": [
+      "brilliant iridescent blue wings with dark borders",
+      "eyespot patterns underneath"
+    ],
+    "diet": "herbivore (rotting fruit juice, tree sap)",
+    "movement": [
+      "flies with characteristic bobbing flight pattern"
+    ],
+    "behavior": [
+      "solitary",
+      "diurnal",
+      "forest canopy dweller"
+    ],
+    "color": [
+      "iridescent blue",
+      "brown underside"
+    ]
+  },
+  "walking stick": {
+    "size": "small",
+    "habitat": [
+      "worldwide in warm regions",
+      "forests",
+      "shrubs"
+    ],
+    "features": [
+      "extremely elongated twig-like body",
+      "camouflage appearance",
+      "wingless in many species"
+    ],
+    "diet": "herbivore (leaves)",
+    "movement": [
+      "crawls slowly"
+    ],
+    "behavior": [
+      "nocturnal",
+      "extreme camouflage mimicry"
+    ],
+    "color": [
+      "green",
+      "brown",
+      "tan"
+    ]
+  },
+  "flea": {
+    "size": "microscopic",
+    "habitat": [
+      "worldwide",
+      "nests and fur of warm-blooded animals"
+    ],
+    "features": [
+      "wingless",
+      "flattened body",
+      "powerful jumping hind legs",
+      "piercing mouthparts"
+    ],
+    "diet": "carnivore (blood feeder)",
+    "movement": [
+      "jumps great distances relative to size",
+      "crawls through fur"
+    ],
+    "behavior": [
+      "parasitic",
+      "vector for diseases like plague"
+    ],
+    "color": [
+      "dark brown",
+      "reddish-brown",
+      "black"
+    ]
+  },
+  "bed bug": {
+    "size": "microscopic",
+    "habitat": [
+      "worldwide",
+      "human homes, mattresses, furniture crevices"
+    ],
+    "features": [
+      "flat oval reddish-brown body",
+      "wingless",
+      "piercing mouthparts"
+    ],
+    "diet": "carnivore (blood feeder)",
+    "movement": [
+      "crawls"
+    ],
+    "behavior": [
+      "nocturnal parasite",
+      "hides during day in cracks"
+    ],
+    "color": [
+      "reddish-brown"
+    ]
+  },
+  "swallowtail butterfly": {
+    "size": "small",
+    "habitat": [
+      "worldwide",
+      "meadows",
+      "forest clearings",
+      "gardens"
+    ],
+    "features": [
+      "distinctive tail-like extensions on hind wings",
+      "vibrant yellow and black or colorful markings"
+    ],
+    "diet": "herbivore (nectar)",
+    "movement": [
+      "flies with fluttery and graceful motion"
+    ],
+    "behavior": [
+      "diurnal",
+      "attracted to flowers"
+    ],
+    "color": [
+      "yellow",
+      "black",
+      "blue",
+      "red accents"
+    ]
+  },
+  "black widow spider": {
+    "size": "very small",
+    "habitat": [
+      "temperate and tropical regions worldwide",
+      "dark sheltered areas",
+      "woodpiles",
+      "sheds"
+    ],
+    "features": [
+      "glossy black body",
+      "red hourglass marking on abdomen",
+      "potent neurotoxic venom"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "crawls",
+      "weaves tangled webs"
+    ],
+    "behavior": [
+      "solitary",
+      "nocturnal",
+      "females sometimes consume males after mating"
+    ],
+    "color": [
+      "black",
+      "red mark"
+    ]
+  },
+  "goliath birdeater": {
+    "size": "small to medium",
+    "habitat": [
+      "South America",
+      "rainforest burrows"
+    ],
+    "features": [
+      "one of largest spiders by mass",
+      "hairy brown body",
+      "large fangs",
+      "urticating hairs"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "crawls on ground"
+    ],
+    "behavior": [
+      "ground-dwelling",
+      "nocturnal",
+      "ambush hunter"
+    ],
+    "color": [
+      "brown",
+      "tan",
+      "reddish-brown"
+    ]
+  },
+  "emperor scorpion": {
+    "size": "small",
+    "habitat": [
+      "Africa",
+      "tropical rainforests",
+      "savannas"
+    ],
+    "features": [
+      "large dark pincers",
+      "segmented tail with venomous stinger",
+      "fluoresces under UV light"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "crawls"
+    ],
+    "behavior": [
+      "nocturnal",
+      "burrower",
+      "docile venom compared to other scorpions"
+    ],
+    "color": [
+      "dark blue",
+      "black",
+      "dark green sheen"
+    ]
+  },
+  "brown recluse spider": {
+    "size": "very small",
+    "habitat": [
+      "North America",
+      "dark indoor areas",
+      "attics",
+      "closets",
+      "under rocks"
+    ],
+    "features": [
+      "violin-shaped marking on cephalothorax",
+      "six eyes instead of eight",
+      "tan-brown body"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "crawls"
+    ],
+    "behavior": [
+      "solitary",
+      "nocturnal hunter",
+      "necrotic venom"
+    ],
+    "color": [
+      "tan",
+      "brown"
+    ]
+  },
+  "camel spider": {
+    "size": "small",
+    "habitat": [
+      "deserts and arid regions worldwide",
+      "Middle East",
+      "North America"
+    ],
+    "features": [
+      "large chelicerae (jaws)",
+      "hairy body",
+      "fast-moving arachnid (solifugae)"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "runs very fast across sand"
+    ],
+    "behavior": [
+      "nocturnal",
+      "aggressive hunter",
+      "not actually venomous"
+    ],
+    "color": [
+      "tan",
+      "brown",
+      "yellowish"
+    ]
+  },
+  "orb-weaver spider": {
+    "size": "very small to small",
+    "habitat": [
+      "worldwide",
+      "gardens",
+      "forests",
+      "fields"
+    ],
+    "features": [
+      "round abdomen",
+      "spins classic spiral wheel webs",
+      "eight eyes"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "crawls",
+      "spins webs"
+    ],
+    "behavior": [
+      "builds new web daily",
+      "sits in center of web waiting for prey"
+    ],
+    "color": [
+      "variable (yellow, brown, green, white patterns)"
+    ]
+  },
+  "water spider": {
+    "size": "very small",
+    "habitat": [
+      "Europe",
+      "Asia",
+      "clean freshwater ponds",
+      "slow streams"
+    ],
+    "features": [
+      "only spider that lives entirely underwater",
+      "carries air bubble in silk dome"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims underwater",
+      "climbs aquatic plants"
+    ],
+    "behavior": [
+      "builds underwater diving bell web",
+      "aquatic"
+    ],
+    "color": [
+      "dark brown, grayish"
+    ]
+  },
+  "whip spider": {
+    "size": "small",
+    "habitat": [
+      "tropics and subtropics worldwide",
+      "caves",
+      "under tree bark"
+    ],
+    "features": [
+      "flattened body",
+      "extremely long whip-like front legs used as feelers",
+      "no venom"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "sidles sideways quickly on surfaces"
+    ],
+    "behavior": [
+      "nocturnal",
+      "cave-dweller",
+      "harmless to humans"
+    ],
+    "color": [
+      "dark brown",
+      "gray",
+      "black"
+    ]
+  },
+  "red-knee tarantula": {
+    "size": "small to medium",
+    "habitat": [
+      "Mexico",
+      "scrublands",
+      "desert margins",
+      "mountain slopes"
+    ],
+    "features": [
+      "hairy dark body with bright orange-red knee joints",
+      "fangs"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "crawls slowly"
+    ],
+    "behavior": [
+      "docile nature",
+      "ground-dwelling burrower",
+      "long-lived"
+    ],
+    "color": [
+      "black",
+      "dark brown",
+      "orange-red leg bands"
+    ]
+  },
+  "bark scorpion": {
+    "size": "very small",
+    "habitat": [
+      "North America",
+      "deserts",
+      "arid regions",
+      "under bark and rocks"
+    ],
+    "features": [
+      "slender pincers and tail",
+      "most venomous scorpion in North America"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "crawls",
+      "climbs walls skillfully"
+    ],
+    "behavior": [
+      "nocturnal",
+      "can climb vertical surfaces"
+    ],
+    "color": [
+      "yellow",
+      "light brown",
+      "tan"
+    ]
+  },
+  "american lobster": {
+    "size": "medium",
+    "habitat": [
+      "North Atlantic Ocean",
+      "rocky coastal seabeds"
+    ],
+    "features": [
+      "two large asymmetrical claws",
+      "hard exoskeleton",
+      "stalked eyes",
+      "fan tail"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "walks on sea floor",
+      "swims backward rapidly when escaping"
+    ],
+    "behavior": [
+      "solitary",
+      "bottom-dweller",
+      "territorial"
+    ],
+    "color": [
+      "dark blue-green, mottled brown (turns red when cooked)"
+    ]
+  },
+  "blue crab": {
+    "size": "small",
+    "habitat": [
+      "Atlantic Ocean",
+      "estuaries",
+      "coastal bays",
+      "tidal marshes"
+    ],
+    "features": [
+      "bright blue claws",
+      "olive-brown shell with lateral spines",
+      "paddle-shaped hind legs"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "swims sideways",
+      "walks on seabed"
+    ],
+    "behavior": [
+      "aggressive",
+      "active bottom scavenger"
+    ],
+    "color": [
+      "olive-green, bright blue claws"
+    ]
+  },
+  "hermit crab": {
+    "size": "very small",
+    "habitat": [
+      "coastal marine waters",
+      "beaches",
+      "tropical land areas"
+    ],
+    "features": [
+      "soft asymmetrical abdomen tucked inside abandoned snail shells",
+      "stalked eyes"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "walks on beach and seabed carrying shell"
+    ],
+    "behavior": [
+      "social",
+      "changes shells as it grows larger"
+    ],
+    "color": [
+      "red",
+      "brown, purple, orange-tipped claws"
+    ]
+  },
+  "antarctic krill": {
+    "size": "microscopic to very small",
+    "habitat": [
+      "Southern Ocean",
+      "Antarctic waters",
+      "pelagic zone"
+    ],
+    "features": [
+      "shrimp-like crustacean",
+      "transparent body with red bioluminescent spots",
+      "swimming legs"
+    ],
+    "diet": "herbivore (phytoplankton)",
+    "movement": [
+      "swims in massive swarms"
+    ],
+    "behavior": [
+      "forms gigantic swarms",
+      "crucial foundation species of Antarctic food web"
+    ],
+    "color": [
+      "translucent, pinkish-red"
+    ]
+  },
+  "coconut crab": {
+    "size": "large",
+    "habitat": [
+      "Indo-Pacific islands",
+      "tropical forests",
+      "coral atolls"
+    ],
+    "features": [
+      "largest land-living arthropod",
+      "massive crushing claws capable of opening coconuts"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "walks on land",
+      "climbs palm trees"
+    ],
+    "behavior": [
+      "terrestrial",
+      "nocturnal",
+      "solitary"
+    ],
+    "color": [
+      "blue, purple, reddish-brown"
+    ]
+  },
+  "barnacle": {
+    "size": "microscopic to very small",
+    "habitat": [
+      "marine coasts",
+      "rocks",
+      "ships' hulls",
+      "whale skin"
+    ],
+    "features": [
+      "sessile crustacean enclosed in hard conical calcium carbonate plates",
+      "feathery feeding appendages"
+    ],
+    "diet": "carnivore (filter feeder)",
+    "movement": [
+      "immobile as adults (cemented to surfaces)"
+    ],
+    "behavior": [
+      "sessile",
+      "gregarious crustacean living in dense clusters"
+    ],
+    "color": [
+      "gray, white, pinkish"
+    ]
+  },
+  "tiger prawn": {
+    "size": "small",
+    "habitat": [
+      "Indo-Pacific",
+      "estuaries",
+      "coastal marine waters"
+    ],
+    "features": [
+      "dark transverse stripes across shell",
+      "saw-like rostrum",
+      "swimming pleopods"
+    ],
+    "diet": "omnivore",
+    "movement": [
+      "swims",
+      "walks on seabed"
+    ],
+    "behavior": [
+      "bottom-dweller",
+      "burrows in sand during day"
+    ],
+    "color": [
+      "gray, brown, blue with dark tiger stripes"
+    ]
+  },
+  "horseshoe crab": {
+    "size": "medium",
+    "habitat": [
+      "shallow coastal marine waters",
+      "sandy beaches for spawning"
+    ],
+    "features": [
+      "horseshoe-shaped carapace",
+      "spiky tail (telson)",
+      "multiple eyes",
+      "blue copper-based blood"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "walks along ocean floor",
+      "swims upside down"
+    ],
+    "behavior": [
+      "living fossil lineage",
+      "bottom-dweller",
+      "comes ashore to spawn in groups"
+    ],
+    "color": [
+      "dark brown, olive-green"
+    ]
+  },
+  "mantis shrimp": {
+    "size": "small",
+    "habitat": [
+      "tropical and subtropical marine waters",
+      "coral reefs",
+      "seabeds"
+    ],
+    "features": [
+      "powerful spring-loaded raptorial claws that strike like bullets",
+      "complex stalked eyes"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims",
+      "walks in burrows"
+    ],
+    "behavior": [
+      "aggressive hunter",
+      "highly complex vision (sees ultraviolet and polarized light)"
+    ],
+    "color": [
+      "vibrant green, orange, blue, brown patterns"
+    ]
+  },
+  "giant isopod": {
+    "size": "small",
+    "habitat": [
+      "deep sea",
+      "cold dark benthic ocean zones"
+    ],
+    "features": [
+      "segmented armor plates",
+      "large compound eyes",
+      "resembles giant woodlouse"
+    ],
+    "diet": "carnivore (scavenger)",
+    "movement": [
+      "crawls slowly on deep ocean floor"
+    ],
+    "behavior": [
+      "deep-sea benthic scavenger",
+      "can survive long periods without food"
+    ],
+    "color": [
+      "pale pink, lilac, light brown"
+    ]
+  },
+  "giant pacific octopus": {
+    "size": "large",
+    "habitat": [
+      "North Pacific Ocean",
+      "cold coastal waters",
+      "rocky dens"
+    ],
+    "features": [
+      "largest octopus species",
+      "eight arms with suction cups",
+      "soft flexible body",
+      "color-changing skin"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "crawls with arms",
+      "swims using jet propulsion"
+    ],
+    "behavior": [
+      "solitary",
+      "highly intelligent",
+      "nocturnal hunter"
+    ],
+    "color": [
+      "reddish-brown, can change to various camouflage colors"
+    ]
+  },
+  "colossal squid": {
+    "size": "massive",
+    "habitat": [
+      "Southern Ocean",
+      "deep antarctic waters"
+    ],
+    "features": [
+      "largest squid species by mass",
+      "rotating hooks on tentacles",
+      "huge eyes"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims in deep ocean via jet propulsion"
+    ],
+    "behavior": [
+      "elusive deep-sea predator",
+      "solitary"
+    ],
+    "color": [
+      "pinkish-red, reddish-brown"
+    ]
+  },
+  "cuttlefish": {
+    "size": "small",
+    "habitat": [
+      "shallow coastal marine waters",
+      "seabeds"
+    ],
+    "features": [
+      "internal cuttlebone for buoyancy",
+      "w-shaped pupils",
+      "tentacles with suckers",
+      "rapid camouflage skin cells"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "glides using fin skirts",
+      "jet propulsion"
+    ],
+    "behavior": [
+      "solitary",
+      "master of camouflage",
+      "intelligent"
+    ],
+    "color": [
+      "variable camouflage colors (brown, white, zebra patterns)"
+    ]
+  },
+  "nautilus": {
+    "size": "small",
+    "habitat": [
+      "tropical Indo-Pacific",
+      "deep coral reef slopes"
+    ],
+    "features": [
+      "external spiral chambered shell",
+      "numerous tentacles without suckers",
+      "primitive eye structure"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims via jet propulsion regulated by internal gas chambers"
+    ],
+    "behavior": [
+      "nocturnal",
+      "living fossil cephalopod",
+      "deep-water dweller"
+    ],
+    "color": [
+      "white with tiger-like brown stripes on shell"
+    ]
+  },
+  "blue-ringed octopus": {
+    "size": "very small",
+    "habitat": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "tide pools",
+      "coral reefs"
+    ],
+    "features": [
+      "flashing iridescent blue rings when threatened",
+      "small body",
+      "highly lethal neurotoxic saliva"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "crawls across rocks and sand",
+      "swims"
+    ],
+    "behavior": [
+      "solitary",
+      "diurnal/crepuscular",
+      "extremely venomous"
+    ],
+    "color": [
+      "yellow, brown, with bright blue rings"
+    ]
+  },
+  "giant clam": {
+    "size": "large",
+    "habitat": [
+      "Indo-Pacific coral reefs",
+      "shallow lagoons"
+    ],
+    "features": [
+      "largest living bivalve mollusk",
+      "heavy rippled shell",
+      "vibrant mantle tissue containing symbiotic algae"
+    ],
+    "diet": "herbivore (absorbs nutrients from symbiotic algae and filter feeding)",
+    "movement": [
+      "sessile as adults (immobile in reef bed)"
+    ],
+    "behavior": [
+      "sessile",
+      "lives symbiotically with zooxanthellae"
+    ],
+    "color": [
+      "blue, green, brown, gold mantle"
+    ]
+  },
+  "garden snail": {
+    "size": "microscopic to very small",
+    "habitat": [
+      "worldwide",
+      "gardens",
+      "forest floors",
+      "damp fields"
+    ],
+    "features": [
+      "spiral coiled shell",
+      "muscular foot",
+      "two pairs of tentacles with eyes on top"
+    ],
+    "diet": "herbivore",
+    "movement": [
+      "glides slowly on slime trail"
+    ],
+    "behavior": [
+      "nocturnal",
+      "hibernates in cold or estivates in dry weather"
+    ],
+    "color": [
+      "brown, tan with yellow/dark bands"
+    ]
+  },
+  "banana slug": {
+    "size": "small",
+    "habitat": [
+      "North America",
+      "temperate rainforest floors",
+      "damp woodland litter"
+    ],
+    "features": [
+      "bright yellow body (sometimes spotted)",
+      "shell-less land mollusk",
+      "slime production"
+    ],
+    "diet": "herbivore (decomposing plant matter, fungi)",
+    "movement": [
+      "glides slowly on muscular foot"
+    ],
+    "behavior": [
+      "solitary",
+      "nocturnal",
+      "hermaphroditic"
+    ],
+    "color": [
+      "bright yellow, greenish-yellow, brown spots"
+    ]
+  },
+  "abalone": {
+    "size": "small",
+    "habitat": [
+      "coastal waters worldwide",
+      "rocky reefs"
+    ],
+    "features": [
+      "ear-shaped single shell with respiratory holes",
+      "muscular foot",
+      "mother-of-pearl interior"
+    ],
+    "diet": "herbivore (kelp and algae)",
+    "movement": [
+      "clings firmly to rocks, crawls slowly"
+    ],
+    "behavior": [
+      "nocturnal",
+      "solitary marine snail"
+    ],
+    "color": [
+      "dark green, brown, red shell exterior"
+    ]
+  },
+  "sea scallop": {
+    "size": "small",
+    "habitat": [
+      "Atlantic Ocean",
+      "ocean floor",
+      "sandy or gravel bottoms"
+    ],
+    "features": [
+      "fan-shaped hinged bivalve shell",
+      "rows of tiny blue eyes along mantle margin"
+    ],
+    "diet": "carnivore (filter feeder)",
+    "movement": [
+      "swims short distances by clapping shell valves together to jet water"
+    ],
+    "behavior": [
+      "benthic bivalve",
+      "can escape predators by swimming"
+    ],
+    "color": [
+      "whitish, reddish-brown, pinkish"
+    ]
+  },
+  "conch": {
+    "size": "medium",
+    "habitat": [
+      "tropical shallow marine waters",
+      "seagrass meadows",
+      "coral reefs"
+    ],
+    "features": [
+      "large heavy spiral shell with pink or orange interior",
+      "operculum claw"
+    ],
+    "diet": "herbivore (algae and seagrass)",
+    "movement": [
+      "locomotes in jerky hopping motions using foot"
+    ],
+    "behavior": [
+      "benthic marine snail",
+      "gregarious during breeding"
+    ],
+    "color": [
+      "pink, orange, cream shell interior"
+    ]
+  },
+  "sea hare": {
+    "size": "small to medium",
+    "habitat": [
+      "shallow tropical and temperate marine waters",
+      "seaweed beds"
+    ],
+    "features": [
+      "rabbit-like rhinophores (head tentacles)",
+      "soft body with internal shell vestige",
+      "produces purple ink defense"
+    ],
+    "diet": "herbivore (seaweed and algae)",
+    "movement": [
+      "crawls on sea floor",
+      "swims using parapodial flaps"
+    ],
+    "behavior": [
+      "herbivorous benthic sea slug",
+      "gregarious"
+    ],
+    "color": [
+      "green, brown, reddish camouflage"
+    ]
+  },
+  "zebra mussel": {
+    "size": "microscopic",
+    "habitat": [
+      "freshwater lakes, rivers (native to Eurasia, invasive elsewhere)"
+    ],
+    "features": [
+      "small triangular bivalve shell with zigzag zebra-like stripes",
+      "byssal threads for anchoring"
+    ],
+    "diet": "carnivore (filter feeder)",
+    "movement": [
+      "sessile as adults, free-floating larval stage"
+    ],
+    "behavior": [
+      "invasive fouling organism",
+      "forms dense clustered colonies"
+    ],
+    "color": [
+      "brown, yellowish with dark zigzag stripes"
+    ]
+  },
+  "sunflower sea star": {
+    "size": "medium to large",
+    "habitat": [
+      "Northeast Pacific Ocean",
+      "kelp forests",
+      "rocky and sandy seabeds"
+    ],
+    "features": [
+      "multiple arms (up to 24)",
+      "large soft body",
+      "numerous tube feet"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "crawls across sea floor rapidly for a starfish"
+    ],
+    "behavior": [
+      "active voracious benthic predator of urchins and clams"
+    ],
+    "color": [
+      "orange, purple, brown, yellow, red"
+    ]
+  },
+  "red sea urchin": {
+    "size": "small",
+    "habitat": [
+      "Pacific Ocean",
+      "rocky reefs",
+      "kelp forests"
+    ],
+    "features": [
+      "globular body covered in sharp movable red-brown spines",
+      "aristotle's lantern mouth"
+    ],
+    "diet": "herbivore (kelp and algae)",
+    "movement": [
+      "crawls slowly using tube feet"
+    ],
+    "behavior": [
+      "benthic grazer",
+      "nocturnal tendency"
+    ],
+    "color": [
+      "deep red, reddish-brown, purple"
+    ]
+  },
+  "sea cucumber": {
+    "size": "small to medium",
+    "habitat": [
+      "marine ocean floors worldwide",
+      "deep sea to shallow reefs"
+    ],
+    "features": [
+      "leathery elongated cylindrical body",
+      "tentacles around mouth",
+      "evisceration defense mechanism"
+    ],
+    "diet": "carnivore (detritivore, filters organic matter from sediment)",
+    "movement": [
+      "crawls slowly along seabed"
+    ],
+    "behavior": [
+      "benthic bottom-feeder",
+      "vital for nutrient recycling in ocean"
+    ],
+    "color": [
+      "brown, black, green, yellowish"
+    ]
+  },
+  "brittle star": {
+    "size": "very small",
+    "habitat": [
+      "marine oceans worldwide",
+      "deep sea to shallow reefs"
+    ],
+    "features": [
+      "central disk body with five long slender fragile arms that snake about"
+    ],
+    "diet": "carnivore (detritivore and scavenger)",
+    "movement": [
+      "crawls rapidly across seabed using arm movements"
+    ],
+    "behavior": [
+      "nocturnal",
+      "hides under rocks and in crevices"
+    ],
+    "color": [
+      "brown, red, green, black, patterned"
+    ]
+  },
+  "feather star": {
+    "size": "small",
+    "habitat": [
+      "tropical coral reefs",
+      "deep marine waters"
+    ],
+    "features": [
+      "crinoid echinoderm with feathery branched arms",
+      "cirri (claw-like appendages) for clinging"
+    ],
+    "diet": "carnivore (filter feeder)",
+    "movement": [
+      "crawls on seabed, can swim short distances with arms"
+    ],
+    "behavior": [
+      "sessile or slow-moving",
+      "filter feeds in currents"
+    ],
+    "color": [
+      "yellow, red, purple, black, multicolored"
+    ]
+  },
+  "crown-of-thorns starfish": {
+    "size": "medium",
+    "habitat": [
+      "Indo-Pacific coral reefs"
+    ],
+    "features": [
+      "arms covered in venomous sharp spikes",
+      "multiple arms",
+      "feeds by everting stomach over coral"
+    ],
+    "diet": "carnivore (coral polyps)",
+    "movement": [
+      "crawls across coral reefs"
+    ],
+    "behavior": [
+      "coral predator",
+      "can cause destructive outbreaks on coral reefs"
+    ],
+    "color": [
+      "red, purple, greenish, gray spines"
+    ]
+  },
+  "purple sea urchin": {
+    "size": "very small",
+    "habitat": [
+      "Pacific Ocean",
+      "shallow rocky intertidal zones",
+      "kelp forests"
+    ],
+    "features": [
+      "small globular shell covered in short deep-purple spines"
+    ],
+    "diet": "herbivore (kelp)",
+    "movement": [
+      "crawls slowly",
+      "bores into soft rock to make depressions"
+    ],
+    "behavior": [
+      "grazing keystone species",
+      "forms urchin barrens when overpopulated"
+    ],
+    "color": [
+      "deep purple, violet"
+    ]
+  },
+  "sand dollar": {
+    "size": "very small",
+    "habitat": [
+      "temperate and tropical oceans",
+      "sandy seabeds"
+    ],
+    "features": [
+      "flat circular calcareous skeleton (test)",
+      "flower petal pattern on top",
+      "short velvety spines"
+    ],
+    "diet": "carnivore (detritivore and plankton)",
+    "movement": [
+      "burrows into sand or crawls slowly"
+    ],
+    "behavior": [
+      "benthic burrower",
+      "gregarious colonies on sandy flats"
+    ],
+    "color": [
+      "purphish-brown when alive, bleached white when dead"
+    ]
+  },
+  "basket star": {
+    "size": "medium",
+    "habitat": [
+      "deep marine waters",
+      "coral reefs"
+    ],
+    "features": [
+      "extremely branched and tangled arms forming a basket-like net"
+    ],
+    "diet": "carnivore (filter feeder)",
+    "movement": [
+      "stationary when feeding, crawls slowly"
+    ],
+    "behavior": [
+      "nocturnal",
+      "opens branched arms into water currents to catch plankton"
+    ],
+    "color": [
+      "beige, brown, yellowish"
+    ]
+  },
+  "leather star": {
+    "size": "small",
+    "habitat": [
+      "Northeast Pacific Ocean",
+      "rocky intertidal and subtidal zones"
+    ],
+    "features": [
+      "smooth velvety skin resembling leather",
+      "mottled coloring",
+      "smells faintly of garlic"
+    ],
+    "diet": "carnivore (sponges, algae, detritus)",
+    "movement": [
+      "crawls across rocks"
+    ],
+    "behavior": [
+      "benthic scavenger",
+      "solitary"
+    ],
+    "color": [
+      "brown, reddish-brown, mottled yellow/purple patches"
+    ]
+  },
+  "box jellyfish": {
+    "size": "small",
+    "habitat": [
+      "tropical Indo-Pacific oceans",
+      "coastal marine waters"
+    ],
+    "features": [
+      "cube-shaped bell",
+      "clusters of tentacles at corners",
+      "extremely potent neurotoxic venom"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims actively by pulsing bell (faster than true jellyfish)"
+    ],
+    "behavior": [
+      "active swimmer",
+      "predatory",
+      "dangerous to humans"
+    ],
+    "color": [
+      "transparent, pale blue"
+    ]
+  },
+  "portuguese man o' war": {
+    "size": "medium",
+    "habitat": [
+      "warm tropical and subtropical oceans",
+      "surface waters"
+    ],
+    "features": [
+      "gas-filled blue-purple sail float (pneumatophore)",
+      "long venomous stinging tentacles"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "drifts on ocean surface driven by wind and currents"
+    ],
+    "behavior": [
+      "colonial siphonophore organism",
+      "potent sting"
+    ],
+    "color": [
+      "blue, purple, pink translucent float"
+    ]
+  },
+  "brain coral": {
+    "size": "large",
+    "habitat": [
+      "tropical coral reefs",
+      "shallow marine waters"
+    ],
+    "features": [
+      "stony coral colony with meandering grooved brain-like surface patterns"
+    ],
+    "diet": "carnivore (captures plankton with tentacles)",
+    "movement": [
+      "sessile as adults"
+    ],
+    "behavior": [
+      "sessile colony",
+      "builds extensive reef structures"
+    ],
+    "color": [
+      "brown, green, gray"
+    ]
+  },
+  "sea anemone": {
+    "size": "very small to small",
+    "habitat": [
+      "marine waters worldwide",
+      "tide pools to deep sea"
+    ],
+    "features": [
+      "polyp body with stinging tentacles surrounding central mouth",
+      "pedal disc for anchoring"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "mostly stationary, can glide slowly on pedal disc or detach to swim"
+    ],
+    "behavior": [
+      "solitary polyp",
+      "ambush predator",
+      "symbiotic with some fish (like clownfish)"
+    ],
+    "color": [
+      "red, green, blue, white, purple, pink"
+    ]
+  },
+  "moon jellyfish": {
+    "size": "small",
+    "habitat": [
+      "coastal marine waters worldwide",
+      "temperate and tropical oceans"
+    ],
+    "features": [
+      "translucent umbrella-shaped bell",
+      "four horseshoe-shaped reproductive organs visible through center",
+      "short tentacles"
+    ],
+    "diet": "carnivore (plankton)",
+    "movement": [
+      "pulses bell to drift through water column"
+    ],
+    "behavior": [
+      "pelagic drifter",
+      "forms large swarms"
+    ],
+    "color": [
+      "translucent, whitish, pinkish-blue"
+    ]
+  },
+  "staghorn coral": {
+    "size": "large",
+    "habitat": [
+      "Caribbean",
+      "tropical western Atlantic",
+      "coral reefs"
+    ],
+    "features": [
+      "branching stony coral resembling deer antlers",
+      "calcium carbonate skeleton"
+    ],
+    "diet": "carnivore (plankton)",
+    "movement": [
+      "sessile colony"
+    ],
+    "behavior": [
+      "fast-growing branching coral",
+      "creates critical shelter habitat for reef fish"
+    ],
+    "color": [
+      "golden-brown, yellowish, tan"
+    ]
+  },
+  "lion's mane jellyfish": {
+    "size": "massive",
+    "habitat": [
+      "cold boreal waters",
+      "Arctic Ocean",
+      "North Atlantic"
+    ],
+    "features": [
+      "largest jellyfish species",
+      "massive bell with hundreds of thread-like stinging tentacles"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "drifts and pulses through cold waters"
+    ],
+    "behavior": [
+      "pelagic drifter",
+      "solitary"
+    ],
+    "color": [
+      "crimson, deep red, yellow-brown"
+    ]
+  },
+  "fire coral": {
+    "size": "medium",
+    "habitat": [
+      "tropical coral reefs",
+      "shallow warm waters"
+    ],
+    "features": [
+      "stony hydrocoral encrusting surfaces",
+      "causes severe burning sensation and rash upon contact"
+    ],
+    "diet": "carnivore (plankton)",
+    "movement": [
+      "sessile colony"
+    ],
+    "behavior": [
+      "reef builder",
+      "not a true coral but a hydrozoan colony"
+    ],
+    "color": [
+      "mustard yellow, brown with white tips"
+    ]
+  },
+  "tube anemone": {
+    "size": "small",
+    "habitat": [
+      "warm marine waters",
+      "soft sandy or muddy seabeds"
+    ],
+    "features": [
+      "long delicate tentacles in two rings",
+      "lives inside a leathery tube buried in sediment"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "remains anchored inside tube"
+    ],
+    "behavior": [
+      "burrowing solitary anemone",
+      "retracts into tube when threatened"
+    ],
+    "color": [
+      "bright orange, purple, pink, green, white tentacles"
+    ]
+  },
+  "sea pen": {
+    "size": "small",
+    "habitat": [
+      "deep marine waters",
+      "soft sandy or muddy seabeds"
+    ],
+    "features": [
+      "colonial octocoral resembling an old-fashioned quill pen",
+      "central stalk"
+    ],
+    "diet": "carnivore (filter feeder)",
+    "movement": [
+      "anchored in sediment by foot, can reposition slowly"
+    ],
+    "behavior": [
+      "benthic colonial organism",
+      "bioluminescent when disturbed"
+    ],
+    "color": [
+      "orange, red, yellow, white"
+    ]
+  },
+  "earthworm": {
+    "size": "microscopic to very small",
+    "habitat": [
+      "worldwide",
+      "damp soil, garden earth, leaf litter"
+    ],
+    "features": [
+      "segmented cylindrical soft body",
+      "clitellum band",
+      "no limbs or eyes"
+    ],
+    "diet": "herbivore (detritivore eating decaying organic matter)",
+    "movement": [
+      "crawls by peristaltic contraction of segments"
+    ],
+    "behavior": [
+      "fossorial",
+      "soil aerator",
+      "hermaphroditic"
+    ],
+    "color": [
+      "pink, reddish-brown, gray"
+    ]
+  },
+  "medicinal leech": {
+    "size": "microscopic to very small",
+    "habitat": [
+      "Europe",
+      "Asia",
+      "freshwater ponds, marshes, slow streams"
+    ],
+    "features": [
+      "segmented flattened body",
+      "suckers at both ends",
+      "jaws with teeth for drawing blood"
+    ],
+    "diet": "carnivore (hematophagous blood feeder)",
+    "movement": [
+      "swims in undulating waves",
+      "loops along surfaces using suckers"
+    ],
+    "behavior": [
+      "aquatic parasite",
+      "historically used in medicine"
+    ],
+    "color": [
+      "olive green, brown with dark dorsal stripes and orange accents"
+    ]
+  },
+  "giant gippsland earthworm": {
+    "size": "large",
+    "habitat": [
+      "Australia",
+      "blue gum forest clay soils along stream banks"
+    ],
+    "features": [
+      "extremely long segmented earthworm (can exceed 1 meter)",
+      "pale pinkish body"
+    ],
+    "diet": "herbivore (organic matter in soil)",
+    "movement": [
+      "burrows slowly through clay soil"
+    ],
+    "behavior": [
+      "fossorial",
+      "produces characteristic gurgling sounds underground"
+    ],
+    "color": [
+      "pink, purplish-gray"
+    ]
+  },
+  "lugworm": {
+    "size": "very small",
+    "habitat": [
+      "marine intertidal sand flats",
+      "coastal beaches"
+    ],
+    "features": [
+      "segmented marine worm",
+      "frilly red gills along middle body",
+      "lives in U-shaped burrows"
+    ],
+    "diet": "carnivore (detritivore ingesting sand and organic sediment)",
+    "movement": [
+      "burrows in sand",
+      "crawls"
+    ],
+    "behavior": [
+      "leaves characteristic sand coils at burrow entrances"
+    ],
+    "color": [
+      "dark red, brownish-pink, greenish"
+    ]
+  },
+  "christmas tree worm": {
+    "size": "microscopic",
+    "habitat": [
+      "tropical coral reefs worldwide"
+    ],
+    "features": [
+      "two spiral radioles resembling miniature Christmas trees used for breathing and feeding"
+    ],
+    "diet": "carnivore (filter feeder)",
+    "movement": [
+      "anchored in coral burrow, retracts rapidly into hole when disturbed"
+    ],
+    "behavior": [
+      "sessile tubicolous polychaete worm",
+      "bores into live coral heads"
+    ],
+    "color": [
+      "blue, yellow, orange, red, white, multicolored"
+    ]
+  },
+  "giant hydrothermal vent worm": {
+    "size": "small",
+    "habitat": [
+      "deep sea hydrothermal vents",
+      "ocean floor volcanic vents"
+    ],
+    "features": [
+      "long white tube housing",
+      "bright red plume at tip containing hemoglobin",
+      "no mouth or gut"
+    ],
+    "diet": "absorbs nutrients from symbiotic bacteria living inside it",
+    "movement": [
+      "sessile inside vertical chitin tubes"
+    ],
+    "behavior": [
+      "deep-sea extremophile",
+      "relies on chemosynthesis rather than sunlight"
+    ],
+    "color": [
+      "milky white tube, bright red plume"
+    ]
+  },
+  "ragworm": {
+    "size": "very small to small",
+    "habitat": [
+      "marine coastal waters",
+      "intertidal mud flats",
+      "estuaries"
+    ],
+    "features": [
+      "segmented body with paired parapodia and bristles",
+      "jaws on retractable pharynx"
+    ],
+    "diet": "omnivore (algae, small invertebrates, detritus)",
+    "movement": [
+      "swims with undulating motion",
+      "crawls"
+    ],
+    "behavior": [
+      "nocturnal",
+      "burrower or hides under rocks"
+    ],
+    "color": [
+      "iridescent green, brown, red"
+    ]
+  },
+  "fan worm": {
+    "size": "microscopic to very small",
+    "habitat": [
+      "marine waters",
+      "coral reefs",
+      "rocky seabeds",
+      "tide pools"
+    ],
+    "features": [
+      "soft body enclosed in leathery or sandy tube",
+      "feathery crown of tentacles for filter feeding"
+    ],
+    "diet": "carnivore (filter feeder)",
+    "movement": [
+      "anchored in tube, retracts crown instantly when startled"
+    ],
+    "behavior": [
+      "sessile tubeworm",
+      "gregarious colonies"
+    ],
+    "color": [
+      "orange, white, brown, banded patterns"
+    ]
+  },
+  "scale worm": {
+    "size": "microscopic to very small",
+    "habitat": [
+      "marine waters worldwide",
+      "under rocks",
+      "coral reefs",
+      "deep sea"
+    ],
+    "features": [
+      "segmented body covered in overlapping dorsal scales (elytra)"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "crawls across seabed or on host animals"
+    ],
+    "behavior": [
+      "benthic scavenger or commensal partner with other sea creatures"
+    ],
+    "color": [
+      "brown, gray, mottled patterns"
+    ]
+  },
+  "ice worm": {
+    "size": "microscopic",
+    "habitat": [
+      "glaciers",
+      "snowfields in North America"
+    ],
+    "features": [
+      "tiny slender segmented oligochete worm",
+      "survives only in freezing glacial ice"
+    ],
+    "diet": "herbivore (algae, bacteria, and pollen on ice)",
+    "movement": [
+      "crawls through glacial ice and snowmelt channels"
+    ],
+    "behavior": [
+      "extremophile",
+      "melts if exposed to room temperature"
+    ],
+    "color": [
+      "black, dark blue, dark purple"
+    ]
+  },
+  "giant barrel sponge": {
+    "size": "large",
+    "habitat": [
+      "Caribbean Sea",
+      "coral reefs",
+      "deep tropical waters"
+    ],
+    "features": [
+      "massive barrel-shaped cylindrical sponge body",
+      "large opening (osculum) at top",
+      "woody texture"
+    ],
+    "diet": "carnivore (filter feeder, extracts bacteria and organic particles from water)",
+    "movement": [
+      "sessile (immobile)"
+    ],
+    "behavior": [
+      "long-lived reef dweller",
+      "known as the 'redwood of the reef'"
+    ],
+    "color": [
+      "reddish-brown, brown, grayish-pink"
+    ]
+  },
+  "venus's flower basket": {
+    "size": "small",
+    "habitat": [
+      "deep sea",
+      "marine waters around Pacific islands"
+    ],
+    "features": [
+      "intricate glass-like lattice skeleton made of silica spicules",
+      "cylindrical basket shape"
+    ],
+    "diet": "carnivore (filter feeder)",
+    "movement": [
+      "sessile deep-sea sponge"
+    ],
+    "behavior": [
+      "deep-sea dweller",
+      "often houses a mating pair of glass sponge shrimp inside permanently"
+    ],
+    "color": [
+      "translucent white, glass-like"
+    ]
+  },
+  "yellow tube sponge": {
+    "size": "medium",
+    "habitat": [
+      "Caribbean Sea",
+      "coral reefs",
+      "shallow marine waters"
+    ],
+    "features": [
+      "cluster of elongated hollow yellow cylindrical tubes growing from a common base"
+    ],
+    "diet": "carnivore (filter feeder)",
+    "movement": [
+      "sessile colony"
+    ],
+    "behavior": [
+      "reef-building sponge",
+      "forms dense clusters"
+    ],
+    "color": [
+      "bright yellow, mustard yellow"
+    ]
+  },
+  "finger sponge": {
+    "size": "small",
+    "habitat": [
+      "coastal marine waters worldwide",
+      "rocky reefs"
+    ],
+    "features": [
+      "branching finger-like projections",
+      "porous sponge texture"
+    ],
+    "diet": "carnivore (filter feeder)",
+    "movement": [
+      "sessile"
+    ],
+    "behavior": [
+      "benthic filter feeder",
+      "provides shelter for small reef invertebrates"
+    ],
+    "color": [
+      "orange, yellow, brown, gray"
+    ]
+  },
+  "vase sponge": {
+    "size": "medium",
+    "habitat": [
+      "tropical marine waters",
+      "coral reefs",
+      "Caribbean"
+    ],
+    "features": [
+      "vase or trumpet shape",
+      "wide opening at top",
+      "fibrous porous wall"
+    ],
+    "diet": "carnivore (filter feeder)",
+    "movement": [
+      "sessile"
+    ],
+    "behavior": [
+      "benthic reef dweller",
+      "solitary or in small groups"
+    ],
+    "color": [
+      "purple, lavender, pink, brown"
+    ]
+  },
+  "c. elegans": {
+    "size": "microscopic",
+    "habitat": [
+      "temperate soil",
+      "rotting organic matter"
+    ],
+    "features": [
+      "transparent microscopic nematode roundworm",
+      "completely mapped nervous system (302 neurons)"
+    ],
+    "diet": "carnivore (bacteria feeder)",
+    "movement": [
+      "crawls by thrashing body from side to side"
+    ],
+    "behavior": [
+      "model organism in genetic and developmental biology"
+    ],
+    "color": [
+      "transparent, colorless"
+    ]
+  },
+  "hookworm": {
+    "size": "microscopic",
+    "habitat": [
+      "parasitic in intestines of mammals",
+      "warm tropical and subtropical soils"
+    ],
+    "features": [
+      "small parasitic roundworm",
+      "cutting plates in mouth for attaching to intestinal wall"
+    ],
+    "diet": "carnivore (blood feeder)",
+    "movement": [
+      "parasitic within host, larval stage crawls in soil"
+    ],
+    "behavior": [
+      "parasitic lifecycle",
+      "infects host through skin contact with contaminated soil"
+    ],
+    "color": [
+      "whitish, pinkish"
+    ]
+  },
+  "pinworm": {
+    "size": "microscopic",
+    "habitat": [
+      "parasitic in human intestines",
+      "temperate regions worldwide"
+    ],
+    "features": [
+      "tiny white thread-like parasitic roundworm"
+    ],
+    "diet": "carnivore (intestinal contents)",
+    "movement": [
+      "parasitic within host"
+    ],
+    "behavior": [
+      "highly contagious human parasite",
+      "females migrate to anal area at night to lay eggs"
+    ],
+    "color": [
+      "white"
+    ]
+  },
+  "trichina worm": {
+    "size": "microscopic",
+    "habitat": [
+      "parasitic in muscle tissues of carnivores and omnivores (pigs, bears)"
+    ],
+    "features": [
+      "smallest parasitic nematode infecting humans",
+      "forms cysts in muscle tissue"
+    ],
+    "diet": "carnivore (parasitic tissue feeder)",
+    "movement": [
+      "encysts within host muscle"
+    ],
+    "behavior": [
+      "parasitic",
+      "transmitted via ingestion of undercooked infected meat"
+    ],
+    "color": [
+      "colorless, translucent"
+    ]
+  },
+  "guinea worm": {
+    "size": "small to medium",
+    "habitat": [
+      "parasitic in humans and mammals",
+      "sub-Saharan African water sources"
+    ],
+    "features": [
+      "very long slender parasitic nematode (females up to 1 meter long)",
+      "blisters skin to emerge"
+    ],
+    "diet": "carnivore (parasitic fluids)",
+    "movement": [
+      "emerges slowly through painful skin blisters when in contact with water"
+    ],
+    "behavior": [
+      "parasitic lifecycle involving copepod intermediate hosts in stagnant drinking water"
+    ],
+    "color": [
+      "milky white"
+    ]
+  },
+  "planarian": {
+    "size": "microscopic",
+    "habitat": [
+      "freshwater ponds, streams, damp terrestrial areas"
+    ],
+    "features": [
+      "flat unsegmented flatworm",
+      "triangular head with cross-eyed appearance",
+      "extraordinary regenerative abilities"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "glides smoothly on slime trail using cilia"
+    ],
+    "behavior": [
+      "nocturnal",
+      "famous for regeneration (can regrow entire body from a small fragment)"
+    ],
+    "color": [
+      "brown, black, gray, white"
+    ]
+  },
+  "blood fluke": {
+    "size": "microscopic",
+    "habitat": [
+      "parasitic in blood vessels of humans and aquatic snails",
+      "tropical freshwaters"
+    ],
+    "features": [
+      "parasitic flatworm (schistosome)",
+      "separate sexes",
+      "oral and ventral suckers"
+    ],
+    "diet": "carnivore (blood feeder)",
+    "movement": [
+      "parasitic within host bloodstreams, free-swimming larval cercariae in water"
+    ],
+    "behavior": [
+      "causes schistosomiasis",
+      "complex lifecycle requiring snail intermediate hosts"
+    ],
+    "color": [
+      "whitish, translucent"
+    ]
+  },
+  "pork tapeworm": {
+    "size": "large",
+    "habitat": [
+      "parasitic in human intestines and pig muscle tissues"
+    ],
+    "features": [
+      "ribbon-like segmented flatworm",
+      "scolex (head) with hooks and suckers",
+      "no digestive tract (absorbs nutrients directly)"
+    ],
+    "diet": "carnivore (absorbs digested host nutrients through skin)",
+    "movement": [
+      "parasitic attachment in intestine"
+    ],
+    "behavior": [
+      "parasitic lifecycle",
+      "transmitted via undercooked pork"
+    ],
+    "color": [
+      "white, cream"
+    ]
+  },
+  "beef tapeworm": {
+    "size": "massive",
+    "habitat": [
+      "parasitic in human intestines and cattle muscle tissues"
+    ],
+    "features": [
+      "very long segmented flatworm (can reach several meters)",
+      "scolex with suckers"
+    ],
+    "diet": "carnivore (absorbs host nutrients)",
+    "movement": [
+      "parasitic attachment"
+    ],
+    "behavior": [
+      "parasitic lifecycle",
+      "transmitted via undercooked beef"
+    ],
+    "color": [
+      "white, cream"
+    ]
+  },
+  "liver fluke": {
+    "size": "microscopic",
+    "habitat": [
+      "parasitic in bile ducts of mammals (sheep, cattle, humans)"
+    ],
+    "features": [
+      "leaf-shaped parasitic flatworm",
+      "oral and ventral suckers"
+    ],
+    "diet": "carnivore (bile and blood)",
+    "movement": [
+      "parasitic within host liver and bile ducts"
+    ],
+    "behavior": [
+      "causes liver disease",
+      "complex lifecycle involving snails and aquatic vegetation"
+    ],
+    "color": [
+      "pinkish, grayish-brown"
+    ]
+  },
+  "tardigrade": {
+    "size": "microscopic",
+    "habitat": [
+      "worldwide",
+      "moss cushions",
+      "lichen",
+      "freshwater",
+      "deep sea"
+    ],
+    "features": [
+      "microscopic eight-legged animal ('water bear')",
+      "micro-anif-tubular body",
+      "cryptobiosis survival state"
+    ],
+    "diet": "herbivore/carnivore (pierces plant cells, bacteria, or smaller rotifers)",
+    "movement": [
+      "slow crawling with eight stubby clawed legs"
+    ],
+    "behavior": [
+      "extremophile",
+      "can survive extreme radiation, extreme heat, cold, and vacuum of space in cryptobiosis"
+    ],
+    "color": [
+      "transparent, translucent white, yellowish, brownish"
+    ]
+  },
+  "velvet worm": {
+    "size": "very small to small",
+    "habitat": [
+      "tropics and Southern Hemisphere",
+      "damp forest leaf litter",
+      "rotting logs"
+    ],
+    "features": [
+      "velvety skin texture",
+      "many stubby unjointed legs",
+      "slime glands that shoot sticky defensive threads"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "crawls slowly on numerous short legs"
+    ],
+    "behavior": [
+      "nocturnal",
+      "secretes explosive slime to trap prey like insects"
+    ],
+    "color": [
+      "velvety brown, reddish, bluish-gray patterns"
+    ]
+  },
+  "sea walnut": {
+    "size": "microscopic to very small",
+    "habitat": [
+      "marine oceans worldwide",
+      "coastal waters"
+    ],
+    "features": [
+      "transparent egg-shaped comb jelly (ctenophore)",
+      "rows of beating cilia (combs) that refract light into rainbows",
+      "no stinging cells"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "swims by beating cilia combs"
+    ],
+    "behavior": [
+      "pelagic gelatinous predator",
+      "bioluminescent"
+    ],
+    "color": [
+      "transparent, colorless with rainbow light refractions"
+    ]
+  },
+  "rotifer": {
+    "size": "microscopic",
+    "habitat": [
+      "freshwater ponds, mosses, damp soils worldwide"
+    ],
+    "features": [
+      "microscopic pseudocoelomate animal",
+      "corona of cilia around mouth resembling a spinning wheel",
+      "toe with adhesive gland"
+    ],
+    "diet": "herbivore/carnivore (bacteria, algae, organic debris)",
+    "movement": [
+      "swims with spinning cilia crown",
+      "crawls in leech-like looping fashion"
+    ],
+    "behavior": [
+      "microscopic aquatic dweller",
+      "some species capable of anhidrosis (drying out and reviving)"
+    ],
+    "color": [
+      "transparent, colorless"
+    ]
+  },
+  "bryozoan": {
+    "size": "microscopic",
+    "habitat": [
+      "marine and freshwater environments",
+      "attached to rocks, shells, piers"
+    ],
+    "features": [
+      "colonial invertebrate animal ('moss animal')",
+      "individual zooids secrete protective chambers",
+      "tentacle crown (lophophore)"
+    ],
+    "diet": "carnivore (filter feeder)",
+    "movement": [
+      "sessile colonial organism"
+    ],
+    "behavior": [
+      "forms encrusting or branching gelatinous/stony colonies on submerged surfaces"
+    ],
+    "color": [
+      "transparent, whitish, brownish, pinkish"
+    ]
+  },
+  "phoronid worm": {
+    "size": "microscopic",
+    "habitat": [
+      "marine coastal waters",
+      "burrowing in sand or attaching to hard substrates"
+    ],
+    "features": [
+      "horseshoe-shaped crown of tentacles (lophophore)",
+      "long slender tube-dwelling body"
+    ],
+    "diet": "carnivore (filter feeder)",
+    "movement": [
+      "sessile tube-dweller"
+    ],
+    "behavior": [
+      "benthic filter feeder living in chitinous tubes in sediment"
+    ],
+    "color": [
+      "whitish, pinkish tentacles"
+    ]
+  },
+  "arrow worm": {
+    "size": "microscopic",
+    "habitat": [
+      "marine pelagic waters worldwide",
+      "planktonic zones"
+    ],
+    "features": [
+      "transparent torpedo-shaped body with lateral fins",
+      "grasping spines around mouth for catching prey"
+    ],
+    "diet": "carnivore",
+    "movement": [
+      "darts rapidly through water column like an arrow"
+    ],
+    "behavior": [
+      "planktonic ambush predator",
+      "transparent camouflage"
+    ],
+    "color": [
+      "transparent, colorless"
+    ]
+  },
+  "acorn worm": {
+    "size": "small to medium",
+    "habitat": [
+      "marine coastal sands and mud flats",
+      "burrowers"
+    ],
+    "features": [
+      "acorn-shaped proboscis, collar, and long fragile segmented-appearing trunk",
+      "hemichordate"
+    ],
+    "diet": "carnivore (detritivore extracting organic matter from ingested sand)",
+    "movement": [
+      "burrows through mud and sand"
+    ],
+    "behavior": [
+      "benthic burrower",
+      "secretes foul-smelling iodine-like mucus"
+    ],
+    "color": [
+      "orange, yellow, pinkish, brown"
+    ]
+  },
+  "lancelet": {
+    "size": "microscopic",
+    "habitat": [
+      "shallow marine coastal waters",
+      "sandy seabeds"
+    ],
+    "features": [
+      "small translucent fish-like invertebrate (cephalochordate)",
+      "notochord but no backbone or true brain"
+    ],
+    "diet": "carnivore (filter feeder)",
+    "movement": [
+      "swims with fish-like undulations, buries tail-first in sand"
+    ],
+    "behavior": [
+      "benthic filter feeder",
+      "important evolutionary model organism bridging invertebrates and vertebrates"
+    ],
+    "color": [
+      "translucent, pale pinkish-white"
+    ]
+  },
+  "sea squirt": {
+    "size": "very small",
+    "habitat": [
+      "marine coastal waters worldwide",
+      "rocks, ship hulls, docks"
+    ],
+    "features": [
+      "barrel-shaped tunicate invertebrate",
+      "two siphons (incurrent and excurrent) that squirt water"
+    ],
+    "diet": "carnivore (filter feeder)",
+    "movement": [
+      "sessile as adults (free-swimming tadpole-like larvae)"
+    ],
+    "behavior": [
+      "sessile marine filter feeder",
+      "chordate relative with lost backbone structure in adulthood"
+    ],
+    "color": [
+      "transparent, translucent pink, orange, yellow, gray"
+    ]
+  },
+  "salp": {
+    "size": "small",
+    "habitat": [
+      "pelagic open ocean waters",
+      "polar to tropical seas"
+    ],
+    "features": [
+      "barrel-shaped gelatinous tunicate",
+      "transparent body",
+      "pumps water continuously through body for locomotion and feeding"
+    ],
+    "diet": "herbivore (phytoplankton)",
+    "movement": [
+      "swims by muscular contraction of gelatinous body wall"
+    ],
+    "behavior": [
+      "forms long colonial chains in open ocean",
+      "rapid reproductive blooms"
+    ],
+    "color": [
+      "transparent, colorless"
+    ]
+  },
+  "larvacean": {
+    "size": "microscopic",
+    "habitat": [
+      "pelagic open ocean waters"
+    ],
+    "features": [
+      "tadpole-like tunicate",
+      "secretes an intricate disposable mucous house used to filter microscopic food"
+    ],
+    "diet": "carnivore (filter feeder)",
+    "movement": [
+      "swims with tail inside gelatinous house"
+    ],
+    "behavior": [
+      "planktonic filter feeder",
+      "abandons and rebuilds mucous houses frequently"
+    ],
+    "color": [
+      "transparent, colorless"
+    ]
+  },
+  "hagfish": {
+    "size": "medium",
+    "habitat": [
+      "cold deep marine waters",
+      "benthic ocean floor"
+    ],
+    "features": [
+      "jawless eel-like fish",
+      "no true vertebrae or eyes",
+      "produces copious defensive slime"
+    ],
+    "diet": "carnivore (scavenger on dead and dying sea creatures)",
+    "movement": [
+      "slithers along seabed, ties body into knot for leverage when feeding"
+    ],
+    "behavior": [
+      "deep-sea benthic scavenger",
+      "ancient jawless vertebrate lineage"
+    ],
+    "color": [
+      "pink, gray, brown"
+    ]
+  },
+  "lamprey": {
+    "size": "medium",
+    "habitat": [
+      "temperate coastal waters, rivers, lakes"
+    ],
+    "features": [
+      "jawless fish",
+      "toothed circular sucking disk mouth",
+      "eel-like body",
+      "gill openings"
+    ],
+    "diet": "carnivore (parasitic blood feeder on fish)",
+    "movement": [
+      "swims with undulating motion",
+      "attaches to rocks or hosts with mouth suction"
+    ],
+    "behavior": [
+      "parasitic or predatory fish",
+      "spawns in freshwater streams"
+    ],
+    "color": [
+      "olive, brown, gray, yellowish with dark mottling"
+    ]
+  }
+}
