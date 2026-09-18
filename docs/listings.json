@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/notes/index.html",
+    "items": [
+      "/notes/python.html"
+    ]
+  },
+  {
+    "listing": "/experiments/index.html",
+    "items": [
+      "/experiments/example/index.html"
+    ]
+  }
+]

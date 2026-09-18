@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "notes/index.html",
+    "href": "notes/index.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Evergreen references organized by topic.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPython\n\n\nWorking notes on Python tools and practices.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This site is a personal wiki and experiment notebook. Its source is available on GitHub."
+  },
+  {
+    "objectID": "experiments/index.html",
+    "href": "experiments/index.html",
+    "title": "Experiments",
+    "section": "",
+    "text": "Short computational investigations, rendered from percent-format Python scripts.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA small decay experiment\n\n\n\npython\n\nvisualization\n\n\n\nA minimal percent-format Python article rendered by Quarto.\n\n\n\n\n\nSep 18, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "experiments/example/index.html",
+    "href": "experiments/example/index.html",
+    "title": "A small decay experiment",
+    "section": "",
+    "text": "This page is authored as a .py file using Jupyter percent cells. It does not require an .ipynb notebook file or the Jupyter user interface.\n\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nx = np.linspace(0, 4, 200)\ny = np.exp(-x)\n\nfig, ax = plt.subplots(figsize=(7, 3.5), facecolor=\"#faf9f5\")\nax.set_facecolor(\"#faf9f5\")\nax.plot(x, y, color=\"#d97757\", linewidth=2.5)\nax.set(xlabel=\"time\", ylabel=\"value\", ylim=(0, 1.05))\nax.spines[[\"top\", \"right\"]].set_visible(False)\nplt.show()\n\n\n\n\n\n\n\nFigure 1: Exponential decay from a small Python computation.\n\n\n\n\n\nThe curve follows y = e^{-x}. See Figure 1."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Notes, models, and small experiments",
+    "section": "",
+    "text": "Small, reproducible investigations written as Python scripts.\nBrowse experiments\n\n\n\nEvergreen references collected while learning and building.\nBrowse notes"
+  },
+  {
+    "objectID": "index.html#experiments",
+    "href": "index.html#experiments",
+    "title": "Notes, models, and small experiments",
+    "section": "",
+    "text": "Small, reproducible investigations written as Python scripts.\nBrowse experiments"
+  },
+  {
+    "objectID": "index.html#notes",
+    "href": "index.html#notes",
+    "title": "Notes, models, and small experiments",
+    "section": "",
+    "text": "Evergreen references collected while learning and building.\nBrowse notes"
+  },
+  {
+    "objectID": "notes/python.html",
+    "href": "notes/python.html",
+    "title": "Python",
+    "section": "",
+    "text": "This section will collect concise notes on the Python tools used by the experiments."
+  }
+]
