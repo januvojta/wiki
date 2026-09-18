@@ -5,4 +5,5 @@ listing:
   sort: "title asc"
 ---
 
-Evergreen references organized by topic.
+Notes on software, models, and data: explanations of concepts, practical tips,
+and useful examples. These are things I want to remember and refer back to while working on projects.

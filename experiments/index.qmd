@@ -8,4 +8,4 @@ listing:
     items: 10
 ---
 
-Short computational investigations, rendered from percent-format Python scripts.
+Small experiments that use Python to explore a question or try out an idea.

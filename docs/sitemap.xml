@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://januvojta.github.io/wiki/notes/index.html</loc>
-    <lastmod>2026-09-18T15:36:13.812Z</lastmod>
+    <lastmod>2026-09-18T16:29:11.800Z</lastmod>
   </url>
   <url>
     <loc>https://januvojta.github.io/wiki/about.html</loc>
@@ -10,7 +10,11 @@
   </url>
   <url>
     <loc>https://januvojta.github.io/wiki/experiments/index.html</loc>
-    <lastmod>2026-09-18T15:35:49.416Z</lastmod>
+    <lastmod>2026-09-18T16:33:00.262Z</lastmod>
+  </url>
+  <url>
+    <loc>https://januvojta.github.io/wiki/agent.html</loc>
+    <lastmod>2026-09-18T16:26:07.958Z</lastmod>
   </url>
   <url>
     <loc>https://januvojta.github.io/wiki/experiments/example/index.html</loc>
@@ -18,7 +22,7 @@
   </url>
   <url>
     <loc>https://januvojta.github.io/wiki/index.html</loc>
-    <lastmod>2026-09-18T15:47:33.812Z</lastmod>
+    <lastmod>2026-09-18T16:29:11.799Z</lastmod>
   </url>
   <url>
     <loc>https://januvojta.github.io/wiki/notes/python.html</loc>

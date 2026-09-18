@@ -1,6 +1,6 @@
 ---
 title: "Notes, models, and small experiments"
-subtitle: "A personal collection of technical notes and executable Python experiments."
+subtitle: "What I’m learning about software, models, and data, with explanations and Python examples."
 toc: false
 ---
 
@@ -9,7 +9,7 @@ toc: false
 ::: {.g-col-12 .g-col-md-6}
 ## Experiments
 
-Small, reproducible investigations written as Python scripts.
+Ideas tested with Python, with the code, charts, and results shown together.
 
 [Browse experiments](experiments/)
 :::
@@ -17,7 +17,7 @@ Small, reproducible investigations written as Python scripts.
 ::: {.g-col-12 .g-col-md-6}
 ## Notes
 
-Evergreen references collected while learning and building.
+Explanations, practical tips, and examples to refer back to when working on a project.
 
 [Browse notes](notes/)
 :::

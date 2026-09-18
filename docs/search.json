@@ -4,7 +4,7 @@
     "href": "notes/index.html",
     "title": "Notes",
     "section": "",
-    "text": "Evergreen references organized by topic.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPython\n\n\nWorking notes on Python tools and practices.\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Notes on software, models, and data: explanations of concepts, practical tips, and useful examples. These are things I want to remember and refer back to while working on projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPython\n\n\nWorking notes on Python tools and practices.\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,35 @@
     "href": "experiments/index.html",
     "title": "Experiments",
     "section": "",
-    "text": "Short computational investigations, rendered from percent-format Python scripts.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA small decay experiment\n\n\n\npython\n\nvisualization\n\n\n\nA minimal percent-format Python article rendered by Quarto.\n\n\n\n\n\nSep 18, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Small experiments that use Python to explore a question or try out an idea.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA small decay experiment\n\n\n\npython\n\nvisualization\n\n\n\nA minimal percent-format Python article rendered by Quarto.\n\n\n\n\n\nSep 18, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "agent.html",
+    "href": "agent.html",
+    "title": "Agent guide",
+    "section": "",
+    "text": "This repository is a personal wiki built with Quarto. Source pages are Quarto Markdown (.qmd) and percent-format Python scripts (.py). The generated site is published from docs/ at https://januvojta.github.io/wiki.\nSee README.md for the directory structure and authoring workflow.\n\n\n\n\nKeep changes focused and follow the existing content and styling patterns.\nEdit source files, not generated HTML in docs/.\nPut site-wide configuration in _quarto.yml and custom styling in styles.css.\nPreserve the ivory, charcoal, and clay palette, editorial typography, responsive layout, and compact footer with equal top and bottom spacing.\nAuthor experiments as experiments/&lt;slug&gt;/index.py using # %% cells. Do not replace them with authored .ipynb notebooks.\nAuthor notes as notes/&lt;slug&gt;.qmd. Keep title and description metadata useful for the listings; experiments also use dates and categories.\nManage Python dependencies with uv; keep pyproject.toml and uv.lock in sync.\n\n\n\n\n\nRun uv sync when setting up the environment or changing dependencies.\nAfter changing site content, configuration, or styles, run uv run quarto render.\nRun git diff --check and review the generated changes.\nFor layout changes, inspect short and long pages at desktop and mobile widths. Check footer spacing and unintended overflow.\n\nQuarto’s freeze: auto caches experiment execution in _freeze/. Include relevant _freeze/ and docs/ updates with source changes. _site/, .quarto/, and .venv/ are local artifacts, not publishing sources.\nPublishing uses GitHub Pages from the main branch’s /docs directory. Preserve .nojekyll and its generated copy in docs/. Commit or push only when requested."
+  },
+  {
+    "objectID": "agent.html#project",
+    "href": "agent.html#project",
+    "title": "Agent guide",
+    "section": "",
+    "text": "This repository is a personal wiki built with Quarto. Source pages are Quarto Markdown (.qmd) and percent-format Python scripts (.py). The generated site is published from docs/ at https://januvojta.github.io/wiki.\nSee README.md for the directory structure and authoring workflow."
+  },
+  {
+    "objectID": "agent.html#working-conventions",
+    "href": "agent.html#working-conventions",
+    "title": "Agent guide",
+    "section": "",
+    "text": "Keep changes focused and follow the existing content and styling patterns.\nEdit source files, not generated HTML in docs/.\nPut site-wide configuration in _quarto.yml and custom styling in styles.css.\nPreserve the ivory, charcoal, and clay palette, editorial typography, responsive layout, and compact footer with equal top and bottom spacing.\nAuthor experiments as experiments/&lt;slug&gt;/index.py using # %% cells. Do not replace them with authored .ipynb notebooks.\nAuthor notes as notes/&lt;slug&gt;.qmd. Keep title and description metadata useful for the listings; experiments also use dates and categories.\nManage Python dependencies with uv; keep pyproject.toml and uv.lock in sync."
+  },
+  {
+    "objectID": "agent.html#verification-and-generated-output",
+    "href": "agent.html#verification-and-generated-output",
+    "title": "Agent guide",
+    "section": "",
+    "text": "Run uv sync when setting up the environment or changing dependencies.\nAfter changing site content, configuration, or styles, run uv run quarto render.\nRun git diff --check and review the generated changes.\nFor layout changes, inspect short and long pages at desktop and mobile widths. Check footer spacing and unintended overflow.\n\nQuarto’s freeze: auto caches experiment execution in _freeze/. Include relevant _freeze/ and docs/ updates with source changes. _site/, .quarto/, and .venv/ are local artifacts, not publishing sources.\nPublishing uses GitHub Pages from the main branch’s /docs directory. Preserve .nojekyll and its generated copy in docs/. Commit or push only when requested."
   },
   {
     "objectID": "experiments/example/index.html",
@@ -32,21 +60,21 @@
     "href": "index.html",
     "title": "Notes, models, and small experiments",
     "section": "",
-    "text": "Small, reproducible investigations written as Python scripts.\nBrowse experiments\n\n\n\nEvergreen references collected while learning and building.\nBrowse notes"
+    "text": "Ideas tested with Python, with the code, charts, and results shown together.\nBrowse experiments\n\n\n\nExplanations, practical tips, and examples to refer back to when working on a project.\nBrowse notes"
   },
   {
     "objectID": "index.html#experiments",
     "href": "index.html#experiments",
     "title": "Notes, models, and small experiments",
     "section": "",
-    "text": "Small, reproducible investigations written as Python scripts.\nBrowse experiments"
+    "text": "Ideas tested with Python, with the code, charts, and results shown together.\nBrowse experiments"
   },
   {
     "objectID": "index.html#notes",
     "href": "index.html#notes",
     "title": "Notes, models, and small experiments",
     "section": "",
-    "text": "Evergreen references collected while learning and building.\nBrowse notes"
+    "text": "Explanations, practical tips, and examples to refer back to when working on a project.\nBrowse notes"
   },
   {
     "objectID": "notes/python.html",
