@@ -1,0 +1,14 @@
+.DS_Store
+
+# uv local environment
+.venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Jupyter editor state
+.ipynb_checkpoints/
+
+# Quarto render output (the committed _freeze/ cache is source data)
+_site/
